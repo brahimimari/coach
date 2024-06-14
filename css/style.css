@@ -5030,7 +5030,7 @@ footer {
   padding: 130px 0; }
 
 #courses_details_wrapper, .event_details_wrapper {
-  padding: 130px 0 0; }
+  padding: 10px 0 0; }
   #courses_details_wrapper .courses_details .single-curses-contert h2, .event_details_wrapper .courses_details .single-curses-contert h2 {
     font-size: 30px;
     text-align: left; }
@@ -5150,7 +5150,7 @@ footer {
     #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents {
       margin-top: 35px; }
       #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane h3, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane h3 {
-        font-size: 25px;
+        font-size: 21px;
         font-weight: 700;
         padding: 20px 0; }
         #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane h3 span, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane h3 span {

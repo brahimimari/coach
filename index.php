@@ -50,29 +50,7 @@
 <header class="header_four">
 <!-- Preloader -->
  
-    <div class="header_top">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-sm-12 col-lg-12">
-                    <div class="info_wrapper">
-                        <div class="contact_info">                   
-        					<ul class="list-unstyled">
-                                <li><i class="flaticon-phone-receiver"></i>+212 5 22 35 07 04</li>
-        						<li><i class="flaticon-mail-black-envelope-symbol"></i>coachconsulting.ma@gmail.com</li>
-        					</ul>                    
-                        </div>
-                        <div class="login_info">
-                             <!-- <ul class="d-flex">
-                                <li class="nav-item"><a href="#" class="nav-link sign-in js-modal-show"><i class="flaticon-user-male-black-shape-with-plus-sign"></i>Sign Up</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link join_now js-modal-show"><i class="flaticon-padlock"></i>Lon In</a></li>
-                            </ul>-->
-                            <a href="#" title="" class="apply_btn">Bulletin d'inscription</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+   
 
    <?php include('pages/header.php') ; ?>
     <!--==================
@@ -333,14 +311,14 @@
             <div class="col-12 col-sm-6 col-md-6 col-lg-4">
                 <div class="single-courses">
                     <div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="#"><img src="images/1689594257015.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="finance-pour-dirigeants-non-financiers.php#"><img src="images/1689594257015.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">F.101</a> 
+                              <a href="#" class="read_more-btn">S.101</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="#">Finance pour Dirigeants non financiers</a></h3>
+                            <h3><a href="finance-pour-dirigeants-non-financiers.php#">Finance pour Dirigeants non financiers</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         <div class="courses_info">
@@ -430,7 +408,7 @@
                     <div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="#"><img src="images/coaching-stress.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                            <a href="#" class="read_more-btn">F.702</a>
+                            <a href="#" class="read_more-btn">S.702</a>
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
