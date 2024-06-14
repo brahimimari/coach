@@ -51,7 +51,7 @@
                         <li class="nav-item"><a href="#" class="nav-link">Aganda</a>
                  
                         </li> 
-						<li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
+						<li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
                     </ul>
                 </div>
                 <div class="mr-auto search_area ">

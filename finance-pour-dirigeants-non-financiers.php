@@ -50,12 +50,8 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>Finance pour Dirigeants non financiers</h1>
-                        <div class="pages_links">
-                            <a href="#" title="">Acceuil</a>
-                            <a href="#" title="">Finance</a>
-                            <a href="#" title="" class="active">Finance pour dirigeants non financiers</a>
-                        </div>
+                        <h1>S.101 - Finance pour Dirigeants non financiers</h1>
+                        
                     </div>
                 </div>              
 
@@ -70,10 +66,7 @@
         <div class="row">        
             <div class="col-12 col-sm-12 col-md-8 col-lg-8">
                 <div class="courses_details">
-                    <div class="single-curses-contert">
-                        <h2>S.101 - Finance pour dirigeants non financiers</h2>
-                       
-                    </div>
+                    
                     <div class="courses_tab_wrapper">  
                         <div class="courses_details_nav_tabs">     
                             <ul class="nav nav-tabs" role="tablist">
