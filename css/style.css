@@ -324,7 +324,7 @@ div#preloader {
         font-weight: 400;
         font-family: "Rubik", sans-serif; }
         .login_signup_option .login_modal_body form .form-group input:focus {
-          border-color: #092ace;
+          border-color: #213f65;
           outline: none;
           -webkit-box-shadow: none;
                   box-shadow: none; }
@@ -351,7 +351,7 @@ div#preloader {
     .login_signup_option .login_modal_body form .login_option {
       margin-top: 15px; }
       .login_signup_option .login_modal_body form .login_option .forget_pass {
-        color: #092ace;
+        color: #213f65;
         font-size: 16px;
         font-weight: 500;
         padding: 0 !important;
@@ -367,7 +367,7 @@ div#preloader {
         line-height: 48px;
         padding: 0 40px;
         border-radius: 3px;
-        background: #092ace;
+        background: #213f65;
         font-size: 16px;
         font-weight: 500;
         color: #ffffff;
@@ -480,7 +480,7 @@ div#preloader {
       line-height: 48px;
       border: none;
       border-radius: 0;
-      background: #092ace;
+      background: #213f65;
       font-size: 16px;
       font-weight: 500;
       color: #ffffff;
@@ -592,7 +592,7 @@ div#preloader {
       margin: 0;
       font-size: 16px; }
   #scroll-top .to-top:hover {
-    background: #092ace none repeat scroll 0 0;
+    background: #213f65 none repeat scroll 0 0;
     color: #ffffff; }
 
 /*=========== {  Pagination Style} ===========*/
@@ -680,11 +680,11 @@ div#preloader {
     .home_1_update .edu_nav nav .navbar-nav li a {
       color: #ffffff !important; }
       .home_1_update .edu_nav nav .navbar-nav li a.active, .home_1_update .edu_nav nav .navbar-nav li a:hover {
-        color: #092ace !important; }
+        color: #213f65 !important; }
     .home_1_update .edu_nav nav .navbar-nav li ul li a {
       color: #333146 !important; }
       .home_1_update .edu_nav nav .navbar-nav li ul li a:before {
-        color: #092ace; }
+        color: #213f65; }
     .home_1_update .edu_nav nav .search_area .navbar-nav li i:before {
       color: #ffffff; }
   .home_1_update .rev_slider_wrapper {
@@ -729,7 +729,7 @@ div#preloader {
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
         .features_4 .features_4_content .title a:hover {
-          background: #092ace; }
+          background: #213f65; }
   .features_4 .features_wrapper_box {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -748,10 +748,10 @@ div#preloader {
         height: 2px;
         width: 102%;
         left: -5px;
-        background: #092ace;
+        background: #213f65;
         bottom: 0; }
       .features_4 .features_wrapper_box .single_item_first span {
-        color: #092ace; }
+        color: #213f65; }
     .features_4 .features_wrapper_box .single_item_center {
       border: 5px solid #fff; }
       .features_4 .features_wrapper_box .single_item_center:before {
@@ -772,10 +772,10 @@ div#preloader {
         height: 2px;
         width: 102%;
         right: -5px;
-        background: #092ace;
+        background: #213f65;
         bottom: 0; }
       .features_4 .features_wrapper_box .single_item_last span {
-        color: #092ace; }
+        color: #213f65; }
     .features_4 .features_wrapper_box .single_item {
       -webkit-box-shadow: 0px 0px 80px 0px rgba(47, 47, 47, 0.1);
               box-shadow: 0px 0px 80px 0px rgba(47, 47, 47, 0.1);
@@ -915,7 +915,7 @@ header {
                 margin: 0;
                 padding-right: 10px; }
         header .header_top .info_wrapper .login_info .apply_btn {
-          background: #0828c2;
+          background: #213f65;
           height: 54px;
           line-height: 54px;
           color: #fff;
@@ -1037,10 +1037,10 @@ header {
         height: 3px;
         width: 102%;
         left: -5px;
-        background: #092ace;
+        background: #213f65;
         bottom: 0; }
       .cources_highlight .latest_blog_carousel .single_item_first span {
-        color: #092ace; }
+        color: #213f65; }
     .cources_highlight .latest_blog_carousel .single_item_center {
       border: 5px solid #fff; }
       .cources_highlight .latest_blog_carousel .single_item_center:before {
@@ -1063,10 +1063,10 @@ header {
         height: 3px;
         width: 102%;
         right: -5px;
-        background: #092ace;
+        background: #213f65;
         bottom: 0; }
       .cources_highlight .latest_blog_carousel .single_item_last span {
-        color: #092ace; }
+        color: #213f65; }
     .cources_highlight .latest_blog_carousel .single_item {
       -webkit-box-shadow: 0px 0px 15px 0px rgba(47, 47, 47, 0.05);
               box-shadow: 0px 0px 15px 0px rgba(47, 47, 47, 0.05);
@@ -1121,7 +1121,7 @@ header {
 
 /*=======[ Index Courses Area Style ]========*/
 .popular_courses {
-  padding: 130px 0 80px; }
+  padding: 50px 0 20px }
   .popular_courses .single-courses {
     -webkit-box-shadow: 0px 0px 81px 0px rgba(47, 47, 47, 0.1);
             box-shadow: 0px 0px 81px 0px rgba(47, 47, 47, 0.1);
@@ -1159,7 +1159,7 @@ header {
         width: 100%;
         z-index: 100; }
         .popular_courses .single-courses .courses_banner_wrapper .purchase_price a {
-          background: #092ace;
+          background: #213f65;
           font-weight: 600;
           border-radius: 0;
           color: #ffffff;
@@ -1169,7 +1169,7 @@ header {
           padding: 5px 25px;
           text-decoration: none; }
     .popular_courses .single-courses .courses_info_wrapper {
-      padding: 30px; }
+      padding: 20px; }
       .popular_courses .single-courses .courses_info_wrapper .courses_title h3 {
         margin: 0;
         line-height: 26px; }
@@ -1189,7 +1189,7 @@ header {
         font-size: 15px;
         font-weight: 400; }
         .popular_courses .single-courses .courses_info_wrapper .courses_title .teachers_name a {
-          color: #092ace;
+          color: #213f65;
           font-weight: 700;
           -webkit-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
@@ -1231,7 +1231,7 @@ header {
           -webkit-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
           .popular_courses .single-courses .courses_info_wrapper .courses_info .cart_btn:hover {
-            background: #092ace; }
+            background: #213f65; }
 
 /*=======[ Index About Style ]========*/
 .about_top_wrapper .title {
@@ -1325,7 +1325,7 @@ header {
       .events-area .event_title_wrapper .sub_title p {
         padding: 25px 10% 0 0; }
     .events-area .event_title_wrapper .envent_all_view a {
-      background: #092ace;
+      background: #213f65;
       font-weight: 500;
       border-radius: 0;
       color: #ffffff;
@@ -1392,7 +1392,7 @@ header {
           margin-right: 25px; }
           .events-area .events_single .event_info .events_time span i {
             padding-right: 10px;
-            color: #092ace;
+            color: #213f65;
             font-size: 16px; }
             .events-area .events_single .event_info .events_time span i:before {
               margin: 0;
@@ -1746,7 +1746,7 @@ footer {
       color: #ffffff;
       padding: 20px 0 35px; }
     footer .become_techer_wrapper .become_a_teacher .get_s_btn a {
-      background: #092ace;
+      background: #213f65;
       font-weight: 500;
       border-radius: 5px;
       color: #ffffff;
@@ -1945,7 +1945,7 @@ footer {
       height: 2px;
       width: 90%;
       left: 0;
-      background: #092ace;
+      background: #213f65;
       bottom: 0; }
   .unlimited_possibilities .single_item_center {
     border-radius: 0 40px 0px 40px; }
@@ -1976,7 +1976,7 @@ footer {
       padding-bottom: 30px; }
       .unlimited_possibilities .single_item .icon_wrapper i:before {
         font-size: 60px;
-        color: #092ace;
+        color: #213f65;
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
         margin: 0; }
@@ -2036,7 +2036,7 @@ footer {
       -webkit-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out; }
       .learn_shep .title a:hover {
-        background: #092ace; }
+        background: #213f65; }
   .learn_shep .shep_banner_wrapper {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -2188,7 +2188,7 @@ footer {
           font-weight: 400;
           font-family: "Rubik", sans-serif; }
           .register_area .form-full-box .register-form .form-group input:focus, .register_area .form-full-box .register-form .form-group textarea:focus {
-            border-color: #092ace;
+            border-color: #213f65;
             outline: none;
             -webkit-box-shadow: none;
                     box-shadow: none; }
@@ -2217,7 +2217,7 @@ footer {
       .register_area .form-full-box .register-form .register-btn-box {
         padding-top: 20px; }
         .register_area .form-full-box .register-form .register-btn-box .register-btn {
-          background: #092ace;
+          background: #213f65;
           color: white;
           padding: 0 55px;
           color: #fff;
@@ -2567,7 +2567,7 @@ footer {
     transition: all 0.3s ease-in-out;
     cursor: pointer; }
     .teamgroup .teamgroup_info_wrapper .srtarte_btn:hover {
-      background: #092ace; }
+      background: #213f65; }
 
 .footer_2 {
   padding: 0; }
@@ -2649,7 +2649,7 @@ footer {
       position: absolute;
       top: -5px;
       right: -5px;
-      background: #092ace;
+      background: #213f65;
       color: #ffffff;
       font-size: 12px;
       height: 16px;
@@ -2708,13 +2708,13 @@ footer {
         margin: 0 !important;
         color: #6a7a83; }
         .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .single_cart .cart_info a:hover {
-          color: #092ace; }
+          color: #213f65; }
       .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .single_cart .del-icon i:before {
         font-size: 10px;
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
       .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .single_cart .del-icon i:hover:before {
-        color: #092ace; }
+        color: #213f65; }
     .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .cart_calculate_wrapper .calculate_price {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -2740,7 +2740,7 @@ footer {
         padding: 0; }
         .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .purchase_btn .cart_button:hover, .header_3 .edu_nav nav .search_area .navbar-nav .cart_icon .cart_list .purchase_btn a.checkout:hover {
           color: #ffffff;
-          border-color: #092ace; }
+          border-color: #213f65; }
 .header_3 .intro_wrapper {
   background: url("../images/banner/banner_3.png") no-repeat center center;
   min-height: 990px;
@@ -2784,7 +2784,7 @@ footer {
     transition: all 0.3s ease-in-out;
     display: inline-block; }
     .header_3 .intro_wrapper .intro_button a:hover {
-      background: #092ace; }
+      background: #213f65; }
   .header_3 .intro_wrapper .search_wrapper {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -2897,7 +2897,7 @@ footer {
           .header_3 .intro_wrapper .search_wrapper .search-option form .submit-btn button {
             height: 72px;
             padding: 0 55px;
-            background: #092ace;
+            background: #213f65;
             font-size: 18px;
             font-family: "Rubik", sans-serif;
             text-transform: uppercase;
@@ -3044,7 +3044,7 @@ footer {
         .video_online .video_wrapper .video_banner .video_view_btn a:before {
           position: absolute;
           content: "";
-          background: #092ace;
+          background: #213f65;
           left: 50%;
           top: 36%;
           border-radius: 50%;
@@ -3088,7 +3088,7 @@ footer {
             margin: 0; }
           .video_online .video_wrapper .video_banner .video_view_btn a i:after {
             position: absolute;
-            background: #092ace;
+            background: #213f65;
             content: "";
             height: 100px;
             width: 100px;
@@ -3241,7 +3241,7 @@ footer {
       transition: all 0.3s ease-in-out; }
       .meet_our_team .meet_team_wrapper .envent_all_view a:hover {
         background: #ffffff;
-        color: #092ace; }
+        color: #213f65; }
   .meet_our_team .testimonial_single {
     position: relative;
     -webkit-box-shadow: 0px 0px 81px 0px rgba(47, 47, 47, 0.1);
@@ -3354,9 +3354,9 @@ footer {
           margin: 12px 0; }
           .priceing .pricing_wrapper .single_price_table.active .pricing-content .pricing_btn a {
             background: #ffffff;
-            color: #092ace; }
+            color: #213f65; }
             .priceing .pricing_wrapper .single_price_table.active .pricing-content .pricing_btn a:hover {
-              background: #092ace;
+              background: #213f65;
               color: #ffffff; }
       .priceing .pricing_wrapper .single_price_table .pricing_title {
         text-align: center;
@@ -3387,12 +3387,12 @@ footer {
             font-size: 20px;
             bottom: 0;
             font-weight: 600;
-            color: #092ace;
+            color: #213f65;
             padding-left: 20px; }
             .priceing .pricing_wrapper .single_price_table .price p sub:before {
               content: "";
               position: absolute;
-              background: #092ace;
+              background: #213f65;
               height: 35px;
               width: 2.5px;
               bottom: 0;
@@ -3411,7 +3411,7 @@ footer {
         .priceing .pricing_wrapper .single_price_table .pricing-content .pricing_btn {
           margin: 12px 0; }
           .priceing .pricing_wrapper .single_price_table .pricing-content .pricing_btn a {
-            background: #092ace;
+            background: #213f65;
             color: #ffffff;
             font-weight: 600;
             font-size: 14px;
@@ -3516,7 +3516,7 @@ footer {
       transition: all 0.3s ease-in-out; }
       .footer_3 .become_instractor .envent_all_view a:hover {
         background: #ffffff;
-        color: #092ace; }
+        color: #213f65; }
   .footer_3 .copyright {
     text-align: center;
     padding: 80px 0 50px; }
@@ -3733,7 +3733,7 @@ footer {
       .blog_wrapper .single_without_img .post_content_wrapper .post_date p {
         color: #ffffff !important; }
         .blog_wrapper .single_without_img .post_content_wrapper .post_date p span {
-          color: #092ace !important; }
+          color: #213f65 !important; }
       .blog_wrapper .single_without_img .post_content_wrapper .post_by {
         padding: 40px 0 0 !important; }
         .blog_wrapper .single_without_img .post_content_wrapper .post_by .social_wrapper span {
@@ -3980,7 +3980,7 @@ footer {
                 font-size: 14px;
                 font-weight: 500;
                 margin: 0 0 0 30px;
-                color: #092ace;
+                color: #213f65;
                 -webkit-transition: all 0.3s ease-in-out;
                 transition: all 0.3s ease-in-out;
                 font-family: "Rubik", sans-serif; }
@@ -4085,7 +4085,7 @@ footer {
         transition: all 0.3s ease-in-out;
         font-family: "Rubik", sans-serif; }
         .blog_wrapper .blog_post .postpage_content_wrapper .leave_comment_wrapper .leave_comment .submit-btn button:hover {
-          background: #092ace; }
+          background: #213f65; }
   .blog_wrapper .blog_wrapper_right {
     padding-left: 50px; }
     .blog_wrapper .blog_wrapper_right .blog-right-items .items-title .title {
@@ -4286,7 +4286,7 @@ footer {
             line-height: 24px;
             color: #6a7a83; }
             .blog_wrapper .blog_wrapper_right .blog-right-items .twitter_post_wrapper .twitter-single .twitter-post .twitter-title p a {
-              color: #092ace;
+              color: #213f65;
               text-transform: uppercase;
               font-weight: 500; }
     .blog_wrapper .blog_wrapper_right .blog-right-items .popular_tags .items-title {
@@ -4467,7 +4467,7 @@ footer {
     padding: 0 40px;
     font-size: 14px;
     font-weight: 500;
-    background: #092ace;
+    background: #213f65;
     text-transform: uppercase;
     border: none;
     border-radius: 5px;
@@ -4729,7 +4729,7 @@ footer {
             .become_a_instructor .video_img .video_wrapper .video-play-btn span a:before {
               position: absolute;
               content: "";
-              background: #092ace;
+              background: #213f65;
               left: 50%;
               top: 50%;
               border-radius: 50%;
@@ -4741,14 +4741,14 @@ footer {
             .become_a_instructor .video_img .video_wrapper .video-play-btn span a:hover i {
               -webkit-transform: scale(1.15);
                       transform: scale(1.15);
-              background: #092ace;
+              background: #213f65;
               color: #ffffff; }
             .become_a_instructor .video_img .video_wrapper .video-play-btn span a i {
               height: 65px;
               width: 65px;
               line-height: 65px;
               font-size: 12px;
-              background: #092ace;
+              background: #213f65;
               color: #ffffff;
               border-radius: 50%;
               -webkit-transition: all 0.3s ease-in-out;
@@ -4759,7 +4759,7 @@ footer {
               font-size: 16px;
               font-weight: 600;
               line-height: 56px;
-              color: #092ace;
+              color: #213f65;
               padding-left: 25px; }
   .become_a_instructor .apply_instructor {
     -webkit-box-shadow: 0px 0px 60px 0px rgba(47, 47, 47, 0.1);
@@ -4794,7 +4794,7 @@ footer {
           font-size: 16px;
           font-weight: 400; }
           .become_a_instructor .apply_instructor form .form-group input:focus, .become_a_instructor .apply_instructor form .form-group textarea:focus {
-            border: 1px solid #092ace;
+            border: 1px solid #213f65;
             outline: none; }
           .become_a_instructor .apply_instructor form .form-group input ::-webkit-input-placeholder, .become_a_instructor .apply_instructor form .form-group textarea ::-webkit-input-placeholder {
             /* Chrome/Opera/Safari */
@@ -4822,7 +4822,7 @@ footer {
       .become_a_instructor .apply_instructor form .submit_btn {
         width: 100%;
         height: 48px;
-        background: #092ace;
+        background: #213f65;
         color: #ffffff;
         font-size: 18px;
         font-weight: 600;
@@ -4839,7 +4839,7 @@ footer {
   #become_instructorr .sub_title h2, #become_instructorr .sub_title p {
     color: #333146; }
   #become_instructorr .envent_all_view a:hover {
-    background: #092ace;
+    background: #213f65;
     color: #ffffff; }
 
 .teachers_profile {
@@ -4869,8 +4869,8 @@ footer {
           .teachers_profile .teacher-detail-left .teacher_info_wrapper .social-items li a i:hover {
             color: #ffffff;
             padding: 0;
-            background: #092ace;
-            border: 1px solid #092ace; }
+            background: #213f65;
+            border: 1px solid #213f65; }
     .teachers_profile .teacher-detail-left .teacher_info_wrapper .teacher-skills {
       padding: 30px; }
       .teachers_profile .teacher-detail-left .teacher_info_wrapper .teacher-skills .skill-single {
@@ -4949,7 +4949,7 @@ footer {
         font-weight: 400;
         margin-bottom: 15px; }
         .teachers_profile .teacher-detail-right .teacher-contact form input:focus, .teachers_profile .teacher-detail-right .teacher-contact form textarea:focus {
-          border: 1px solid #092ace;
+          border: 1px solid #213f65;
           outline: none; }
         .teachers_profile .teacher-detail-right .teacher-contact form input ::-webkit-input-placeholder, .teachers_profile .teacher-detail-right .teacher-contact form textarea ::-webkit-input-placeholder {
           /* Chrome/Opera/Safari */
@@ -4976,7 +4976,7 @@ footer {
       .teachers_profile .teacher-detail-right .teacher-contact form button {
         width: 100%;
         border: 0 none;
-        background: #092ace;
+        background: #213f65;
         color: #ffffff;
         padding: 13px 0;
         font-weight: 600;
@@ -5008,7 +5008,7 @@ footer {
           padding: 12px 15px; }
           .teachers_profile .teacher-detail-right .courses_details_nav_tabs ul li a i:before {
             font-size: 16px;
-            color: #092ace;
+            color: #213f65;
             margin-right: 15px;
             margin-left: 0; }
           .teachers_profile .teacher-detail-right .courses_details_nav_tabs ul li a.active {
@@ -5103,13 +5103,13 @@ footer {
         font-size: 13px;
         display: table; }
         #courses_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee span:last-child, .event_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee span:last-child {
-          color: #092ace;
+          color: #213f65;
           margin-top: 5px;
           font-weight: 700;
           font-size: 18px;
           text-transform: uppercase; }
           #courses_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee span:last-child .courses_price, .event_details_wrapper .courses_details .single-curses-contert .review-option .teacher_fee span:last-child .courses_price {
-            color: #092ace; }
+            color: #213f65; }
     #courses_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn, .event_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn {
       padding-left: 40px; }
       #courses_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn a, .event_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn a {
@@ -5127,7 +5127,7 @@ footer {
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
         #courses_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn a:hover, .event_details_wrapper .courses_details .single-curses-contert .review-option .buy_btn a:hover {
-          background: #092ace; }
+          background: #213f65; }
   #courses_details_wrapper .courses_details .courses_tab_wrapper, .event_details_wrapper .courses_details .courses_tab_wrapper {
     padding: 35px 0px; }
     #courses_details_wrapper .courses_details .courses_tab_wrapper .courses_details_nav_tabs ul, .event_details_wrapper .courses_details .courses_tab_wrapper .courses_details_nav_tabs ul {
@@ -5157,7 +5157,7 @@ footer {
         padding: 20px 0; }
         #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane h3 span, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane h3 span {
           font-size: "Roboto", sans-serif;
-          color: #092ace; }
+          color: #213f65; }
       #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane p, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane p {
         margin-bottom: 20px; }
         #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane p:last-child, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .tab-pane p:last-child {
@@ -5504,11 +5504,12 @@ footer {
               #courses_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .commnet-wrapper .comment-list-items .comment-list-wrapper .comment-list .comment-text p, .event_details_wrapper .courses_details .courses_tab_wrapper .tab_contents .commnet-wrapper .comment-list-items .comment-list-wrapper .comment-list .comment-text p {
                 margin: 19px 0 0; }
   #courses_details_wrapper .blog-right-items .courses_features, .event_details_wrapper .blog-right-items .courses_features {
-    background: linear-gradient(65deg, #5958a0 0%, #111b51 100%);
+	background: linear-gradient(65deg, #5958a0 0%, #111b51 100%);
     padding: 50px 0px;
     position: relative;
     z-index: 1;
-    margin: 0 0 50px; }
+    margin: 0 0 50px;
+	}
     #courses_details_wrapper .blog-right-items .courses_features .items-title, .event_details_wrapper .blog-right-items .courses_features .items-title {
       text-align: left; }
       #courses_details_wrapper .blog-right-items .courses_features .items-title h3, .event_details_wrapper .blog-right-items .courses_features .items-title h3 {
@@ -5583,7 +5584,7 @@ footer {
         font-weight: 700;
         padding: 15px 15px 25px; }
       #courses_details_wrapper .blog-right-items .get_discount .items-title a, .event_details_wrapper .blog-right-items .get_discount .items-title a {
-        background: #092ace;
+        background: #213f65;
         height: 50px;
         padding: 0 40px;
         display: inline-block;
@@ -5605,7 +5606,9 @@ footer {
       z-index: -1; }
 
 #related_courses_wrapper {
-  position: relative; }
+  position: relative;
+  background-color: #ea6830;
+  }
   #related_courses_wrapper .title {
     padding-bottom: 40px; }
     #related_courses_wrapper .title h2 {
@@ -5630,6 +5633,8 @@ footer {
             justify-content: space-between; }
     #related_courses_wrapper #related_courses .single-courses {
       margin: 50px 15px;
+	  border-radius: 19px;
+    background: #fff;
       -webkit-box-shadow: 0px 0px 20px 0px rgba(47, 47, 47, 0.05);
               box-shadow: 0px 0px 20px 0px rgba(47, 47, 47, 0.05); }
   #related_courses_wrapper .owl-buttons {
@@ -5658,7 +5663,7 @@ footer {
       #related_courses_wrapper .owl-buttons .owl-prev:hover, #related_courses_wrapper .owl-buttons .owl-next:hover {
         border: 1px solid #ff5a2c; }
         #related_courses_wrapper .owl-buttons .owl-prev:hover i:before, #related_courses_wrapper .owl-buttons .owl-next:hover i:before {
-          color: #ff5a2c; }
+          color: #fff; }
 
 .event_page .intro_wrapper {
   background: url("../images/banner/inner_banner_5.jpg") no-repeat center center !important; }
