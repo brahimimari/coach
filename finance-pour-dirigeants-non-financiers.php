@@ -28,7 +28,7 @@
     <!-- Mean Menu-->
     <link rel="stylesheet" href="css/assets/meanmenu.css">
     <!-- main style-->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css?v1">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/demo.css">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
