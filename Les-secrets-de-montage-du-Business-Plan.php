@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.101 - Finance pour Dirigeants non financiers</h1>
+                        <h1>F.108 _ Les Secrets de montage du Business Plan _ Univers incertain</h1>
                         
                     </div>
                 </div>              
@@ -80,43 +80,42 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre"> Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion
- et Responsables de trésorerie</p>
+					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables et Contrôleurs de gestion</p>
 
 								</div>
 							</div> 
 							
 					<h3 class="h3formation">Le programme de la formation </h3>
-
-<p>Première partie : L’essentiel de la comptabilité générale et de l’analyse financière pour non Financiers
-</p>
+ 
 
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 1. Comprendre l’information comptable </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1.Spécificités de Business Plan</button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
 					<ul class="step_point">
-						<li>Finalité de la comptabilité</li>
-						<li>Apprendre à lire les documents financiers</li>
-						<li>Interpréter le bilan et le compte de produits et charges.</li>
+						<li>Les raisons d’élaboration d'un Business Plan</li>
+						<li>Les utilisateurs du Business Plan</li>
+						<li>Les réflexes à avoir</li>
+						<li>Entreprise existante ou Start-Up</li>
 					</ul> 
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Techniques de l’analyse financière</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Principales étapes du Montage</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-                                    <li>Analyse financière fondée sur le bilan (FDR, BFR, Trésorerie)</li>
-                                    <li>Analyse par les ratios</li>
-                                    <li>Analyse du Compte Poduits & Charge</li>
+						<li>Remarques préalables</li>
+						<li>De la stratégie au Business Plan</li>
+						<li>L'établissement des prévisions dans l'univers incertain</li>
+						<li>Les points forts et les points faibles</li>						
 					</ul>
 					</p>
                 </div>
@@ -124,31 +123,33 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Deuxième partie : La banque et l’entreprise </button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3.Les éléments prévisionnels</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
-                <div class="card-body">
+	                <div class="card-body">
                     <ul class="step_point">
-                                    <li>Les différentes formules de financements</li>
-                                    <li>Les supports de placemets</li>
-                                 </ul>
+						<li>Généralités</li>
+						<li>L'exploitation prévisionnelle</li>
+						<li>Le Plan de Financement</li>
+						<li>Le Bilan Prévisionnel</li>
+						<li>Les critères de choix d'investissement dans l'Univers incertain</li>
+					</ul>
                 </div>
             </div>
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Troisième partie : Bourse & Business English</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4.Cas pratique sur Template – Entreprise industrielle</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
-								<ul class="step_point">
-                                    <li>Aperçu sur la bourse</li>
-                                    <li>Business English</li>
-                                 </ul>
+							 
                 </div>
             </div>
         </div>
+		
+		  
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
@@ -156,11 +157,13 @@
 <div class="cadreformation">
 								<div>
 								<ul class="step_point">
-                                    <li>  Acquérir le vocabulaire financier, lire et comprendre les informations comptables et financières</li>
-									<li>  Communiquer avec la direction comptable & financière</li>
-									<li>  Comprendre et analyser un bilan et un compte de produits & charges</li>
-									<li>  Comprendre l’univers Banque – Entreprise</li>
-									<li>  Comprendre le monde de la bourse</li>
+                                  
+									<li> Appréhender la démarche pratique du Business Plan</li>
+									<li> Apprendre à développer des business plans pertinents pour les projets à son entreprise</li>
+									<li> Réussir l’argumentaire de son projet devant le top Management et les bailleurs de fonds</li>
+									<li> Maîtriser l'art de convaincre et la gestion de l'argumentaire</li>
+									<li> Présenter le projet de façon convaincante</li>
+
 								 </ul>  
 
 								</div>

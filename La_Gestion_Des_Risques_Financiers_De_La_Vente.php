@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.101 - Finance pour Dirigeants non financiers</h1>
+                        <h1>F.106 _ La gestion des risques financiers de la vente</h1>
                         
                     </div>
                 </div>              
@@ -80,43 +80,39 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre"> Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion
- et Responsables de trésorerie</p>
+					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion et Responsables de trésorerie</p>
 
 								</div>
 							</div> 
 							
 					<h3 class="h3formation">Le programme de la formation </h3>
-
-<p>Première partie : L’essentiel de la comptabilité générale et de l’analyse financière pour non Financiers
-</p>
+ 
 
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 1. Comprendre l’information comptable </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1.Introduction</button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
 					<ul class="step_point">
-						<li>Finalité de la comptabilité</li>
-						<li>Apprendre à lire les documents financiers</li>
-						<li>Interpréter le bilan et le compte de produits et charges.</li>
+						<li>Créances interentreprises et ses conséquences</li>
+						<li>Qu’est ce que la vente ?</li>
+						<li>Qualités du nouveau commercial</li>
 					</ul> 
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Techniques de l’analyse financière</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Les Risques – Clients</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-                                    <li>Analyse financière fondée sur le bilan (FDR, BFR, Trésorerie)</li>
-                                    <li>Analyse par les ratios</li>
-                                    <li>Analyse du Compte Poduits & Charge</li>
+                                    <li> Identification des risques – clients</li>
+                                    <li>Comment gérer les Risques - Clients ?</li>
 					</ul>
 					</p>
                 </div>
@@ -124,13 +120,33 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Deuxième partie : La banque et l’entreprise </button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3.Les modes de paiement / Avantages et Inconvénients</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
                     <ul class="step_point">
-                                    <li>Les différentes formules de financements</li>
-                                    <li>Les supports de placemets</li>
+						<li>Espèces / Chèque</li>
+						<li>Sources des informations additionnelles</li>
+						<li>Virement</li>
+						<li>Stratégie des modes de paiement</li>
+					</ul>
+                </div>
+            </div>
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4.Impact de la créance – Client sur la rentabilité – SIX ETUDES DE CAS</button>                     
+            </h2>
+            <div id="collapsefoor" class="accordion-collapse collapse">
+                <div class="card-body">
+								<ul class="step_point">
+                                    <li>Cas 1: Calcul du salaire du commercial à partir de la marge</li>
+                                    <li>Cas 2: Impact du crédit sur la marge</li>
+                                    <li>Cas 3: Impact du crédit composé sur la marge</li>
+                                    <li>Cas 4: Impact de la perte de la créance sur la rentabilité de l’entreprise</li>
+                                    <li>Cas 5: Balance âgée & Cout d’opportunité</li>
+                                    <li>Cas 6: Coût Global de la Gestion de la fonction commerciale</li>
                                  </ul>
                 </div>
             </div>
@@ -138,14 +154,20 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Troisième partie : Bourse & Business English</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">  5. Informations commerciales & Sécurité de créances</button>                     
             </h2>
-            <div id="collapsefoor" class="accordion-collapse collapse">
+            <div id="collapsefive" class="accordion-collapse collapse">
                 <div class="card-body">
-								<ul class="step_point">
-                                    <li>Aperçu sur la bourse</li>
-                                    <li>Business English</li>
-                                 </ul>
+                 </div>
+            </div>
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">    6. Mesure des performances – Tableau de bord commercial</button>                     
+            </h2>
+            <div id="collapsesix" class="accordion-collapse collapse">
+                <div class="card-body">
                 </div>
             </div>
         </div>
@@ -156,11 +178,12 @@
 <div class="cadreformation">
 								<div>
 								<ul class="step_point">
-                                    <li>  Acquérir le vocabulaire financier, lire et comprendre les informations comptables et financières</li>
-									<li>  Communiquer avec la direction comptable & financière</li>
-									<li>  Comprendre et analyser un bilan et un compte de produits & charges</li>
-									<li>  Comprendre l’univers Banque – Entreprise</li>
-									<li>  Comprendre le monde de la bourse</li>
+                                  
+									<li> Sensibiliser les commerciaux aux risques – clients et à l’effritement de la marge par le crédit – clients</li>
+									<li> Donner aux commerciaux des outils pratiques et des arguments valables pour améliorer leurs marges grâce à la négociation des conditions de paiement</li>
+									<li> Apporter une nouvelle dimension du métier commercial pour augmenter la crédibilité de la négociation en face à face</li>
+									<li>Mesurer et suivre les performances d’e l’équipe commerciale par le tableau de bord</li>
+
 								 </ul>  
 
 								</div>

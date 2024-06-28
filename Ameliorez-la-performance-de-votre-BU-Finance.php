@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.101 - Finance pour Dirigeants non financiers</h1>
+                        <h1>F.104 _ Financier 3.0 : Améliorez la performance de votre B.U.</h1>
                         
                     </div>
                 </div>              
@@ -80,43 +80,40 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre"> Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion
- et Responsables de trésorerie</p>
+					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables et Contrôleurs de gestion</p>
 
 								</div>
 							</div> 
 							
 					<h3 class="h3formation">Le programme de la formation </h3>
-
-<p>Première partie : L’essentiel de la comptabilité générale et de l’analyse financière pour non Financiers
-</p>
+ 
 
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 1. Comprendre l’information comptable </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Auto - évaluation et évaluation du Finance Team</button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
 					<ul class="step_point">
-						<li>Finalité de la comptabilité</li>
-						<li>Apprendre à lire les documents financiers</li>
-						<li>Interpréter le bilan et le compte de produits et charges.</li>
-					</ul> 
+						<li>Grille d’évaluation </li>
+						<li>Missions & périmètre du Financier</li>
+						<li>Financier 3.0</li>
+ 					</ul> 
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Techniques de l’analyse financière</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Prise de la fonction Finance en main</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-                                    <li>Analyse financière fondée sur le bilan (FDR, BFR, Trésorerie)</li>
-                                    <li>Analyse par les ratios</li>
-                                    <li>Analyse du Compte Poduits & Charge</li>
+						<li>Diagnostic organisationnel de la fonction Finance</li>
+						<li>Diagnostic Financier de l’entreprise _ Cas : Entreprise industrielle</li>
+						<li>Plans d’actions </li>
 					</ul>
 					</p>
                 </div>
@@ -124,43 +121,68 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Deuxième partie : La banque et l’entreprise </button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. Prise de la fonction Finance en main</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
                     <ul class="step_point">
-                                    <li>Les différentes formules de financements</li>
-                                    <li>Les supports de placemets</li>
-                                 </ul>
+						<li>L'éthique financière</li>
+						<li>Communication financière</li>
+						<li>Agenda Financier</li>
+						<li>Benchmarking de la fonction</li>
+						<li>Projet de digitalisation de la fonction Finance</li>
+					</ul>
                 </div>
             </div>
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Troisième partie : Bourse & Business English</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">   4. Proposition d’Innovations financières</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
 								<ul class="step_point">
-                                    <li>Aperçu sur la bourse</li>
-                                    <li>Business English</li>
-                                 </ul>
+                                    <li>Tâches à faible valeur ajoutée</li>
+                                    <li>Dématérialisation du processus de clôture</li>
+                                    <li>L’adaptation du capital humain de la fonction finance</li>
+                                    <li>L’impact sur le BFR et la trésorerie</li>
+                                    <li>Gestion du Cash</li>
+                                    <li>Recensement des capitaux extra – financiers</li>
+                                    <li>Protection des données financières</li>
+								</ul>
                 </div>
             </div>
         </div>
-    </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive"> Personal Branding en Finance</button>                     
+            </h2>
+            <div id="collapsefive" class="accordion-collapse collapse">
+                <div class="card-body">
+				 <ul class="step_point">
+						<li>Finance Trombino</li>
+						<li>Marketing de soi en Finance</li>
+ 					</ul>
+                 </div>
+            </div>
+        </div>
+	</div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
 						
 <div class="cadreformation">
 								<div>
 								<ul class="step_point">
-                                    <li>  Acquérir le vocabulaire financier, lire et comprendre les informations comptables et financières</li>
-									<li>  Communiquer avec la direction comptable & financière</li>
-									<li>  Comprendre et analyser un bilan et un compte de produits & charges</li>
-									<li>  Comprendre l’univers Banque – Entreprise</li>
-									<li>  Comprendre le monde de la bourse</li>
+                                <li>   Acquérir la dernière approche d’évaluation de l’équipe Finance</li>
+								<li> Apprendre à devenir un Financier 3.0</li>
+								<li> Prendre en main de la fonction Finance via les diagnostics</li>
+								<li> Accompagner avec succès la digitalisation de la fonction finance</li>
+								<li> Donner un sens à votre présence au sein de l’entreprise via l’introduction des innovations financières
+								 Se vendre au mieux par le Finance Personal Branding</li>
+
+ 
 								 </ul>  
 
 								</div>

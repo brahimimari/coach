@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.101 - Finance pour Dirigeants non financiers</h1>
+                        <h1>F.111 _ Le Reporting Financier - Approche Anglo saxonne	</h1>
                         
                     </div>
                 </div>              
@@ -80,75 +80,85 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre"> Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion
- et Responsables de trésorerie</p>
+					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables et Contrôleurs de gestion </p>
 
 								</div>
 							</div> 
 							
 					<h3 class="h3formation">Le programme de la formation </h3>
-
-<p>Première partie : L’essentiel de la comptabilité générale et de l’analyse financière pour non Financiers
-</p>
+ 
 
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 1. Comprendre l’information comptable </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Pourquoi le Reporting financier ?</button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
-					<ul class="step_point">
-						<li>Finalité de la comptabilité</li>
-						<li>Apprendre à lire les documents financiers</li>
-						<li>Interpréter le bilan et le compte de produits et charges.</li>
-					</ul> 
+ 
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Techniques de l’analyse financière</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">   2. Psychologie du Dirigeant & structure du Reporting Financier</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
-					<ul class="step_point">
-                                    <li>Analyse financière fondée sur le bilan (FDR, BFR, Trésorerie)</li>
-                                    <li>Analyse par les ratios</li>
-                                    <li>Analyse du Compte Poduits & Charge</li>
-					</ul>
+					 
 					</p>
                 </div>
             </div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Deuxième partie : La banque et l’entreprise </button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3.Les instruments du Reporting financier</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
                     <ul class="step_point">
-                                    <li>Les différentes formules de financements</li>
-                                    <li>Les supports de placemets</li>
-                                 </ul>
+						<li>Tableaux chiffrés des KPI & KRI</li>
+						<li>Data visualisation & Flashs</li>
+						<li>Zones et méthodologie d’analyse</li>
+					</ul>
                 </div>
             </div>
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Troisième partie : Bourse & Business English</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4. Data Visualisation _ Cas pratique sur PC (40% du timing de la formation)</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
-								<ul class="step_point">
-                                    <li>Aperçu sur la bourse</li>
-                                    <li>Business English</li>
-                                 </ul>
+							 
                 </div>
             </div>
         </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive"> 5. Les indicateurs financiers – Cas pratique</button>                     
+            </h2>
+            <div id="collapsefive" class="accordion-collapse collapse">
+                <div class="card-body">
+				
+					<ul class="step_point">
+						<li>Cartes stratégiques actuelle et future</li>
+						<li>Conversion des données comptables en données financières</li>
+						<li>KPI Financement, Cout des capitaux & Investissements</li>
+						<li>KPI Working Capital (BFR : DIO, DSO & DPO)</li>
+						<li>KPI Trésorerie : le Range, les structures d’encaissement actuelle et cible, les décisions de financements et de placements, l’analyse des agios, devises & Salle des marchés</li>
+						<li>Analyse économique : 5 Top, Gross Margin, Added Value, Ebitda, EBIT & Structure des résultats</li>
+						<li>KPI rentabilités commerciale, économique, EVA et financière</li>
+					</ul>
+					
+			 </div>
+            </div>
+        </div>
+		
+	 
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
@@ -156,11 +166,14 @@
 <div class="cadreformation">
 								<div>
 								<ul class="step_point">
-                                    <li>  Acquérir le vocabulaire financier, lire et comprendre les informations comptables et financières</li>
-									<li>  Communiquer avec la direction comptable & financière</li>
-									<li>  Comprendre et analyser un bilan et un compte de produits & charges</li>
-									<li>  Comprendre l’univers Banque – Entreprise</li>
-									<li>  Comprendre le monde de la bourse</li>
+                                  
+									<li> Prendre conscience de l’importance du pilotage de la performance financière et économique pour l’entreprise   </li>
+									<li> Maitriser l’approche du passage du bilan comptable aux bilans financier et fonctionnel   </li>
+									<li> Identifier les éléments nécessaires à la réalisation d'un reporting financier efficace   </li>
+									<li>  Découvrir la démarche de conception et de sélection des indicateurs financiers  </li>
+									<li>  Identifier ou concevoir les indicateurs pertinents pour le reporting  </li>
+									<li>   Mettre en œuvre une démarche structurée de reporting </li>
+
 								 </ul>  
 
 								</div>

@@ -1177,7 +1177,7 @@ header {
           color: #323232;
           margin: 0px;
           font-weight: 700;
-          font-size: 20px;
+          font-size: 18px;
           -webkit-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out;
           font-family: "Poppins", sans-serif; }
@@ -3550,9 +3550,9 @@ footer {
     left: 0;
     top: 0; }
   .header_inner .intro_wrapper h1 {
-	font-size: 34px;
+	font-size: 25px;
     line-height: 161px;
-    font-weight: 700;
+    font-weight: 500;
     color: #ffffff;
     margin: 0; }
   .header_inner .intro_wrapper .pages_links {
@@ -5742,3 +5742,75 @@ footer {
                 box-shadow: 5px 9px 49px 0px rgba(47, 47, 47, 0.08);
         height: 420px;
         width: 370px; }
+
+
+	/* Custom style */
+    .accordion-button::after {
+      background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='%23333' xmlns='http://www.w3.org/2000/svg'%3e%3cpath fill-rule='evenodd' d='M8 0a1 1 0 0 1 1 1v6h6a1 1 0 1 1 0 2H9v6a1 1 0 1 1-2 0V9H1a1 1 0 0 1 0-2h6V1a1 1 0 0 1 1-1z' clip-rule='evenodd'/%3e%3c/svg%3e");
+      transform: scale(.7) !important;
+    }
+    .accordion-button:not(.collapsed)::after {
+      background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='%23333' xmlns='http://www.w3.org/2000/svg'%3e%3cpath fill-rule='evenodd' d='M0 8a1 1 0 0 1 1-1h14a1 1 0 1 1 0 2H1a1 1 0 0 1-1-1z' clip-rule='evenodd'/%3e%3c/svg%3e");
+    }
+	
+.h3formation,h3formation {
+    margin-top: 2.5rem !important;
+    font-size: 1.3rem !important;
+    font-weight: 600;
+	color: #213f65;
+	margin: 0% 0 18px 0%;
+ }
+ 
+ .cadreformation,cadreformation {
+ padding: 36px;background-color: #213f65;
+    border-radius: 10px;width:100% !important;
+	color: #fff !important;
+	/* margin: 6% 0 0 0%; */
+	}
+	.h3cadre,h3cadre {
+		color: #fff !important;
+	}
+ .textecadre,textecadre {
+font-size:14px !important;color: #fff !important;
+	}
+ .step_point li{
+	     position: relative;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    font-family: "Rubik", sans-serif;
+}
+
+.step_point li:before {
+    position: absolute;
+    font-family: "Flaticon";
+    font-size: 10px;
+    content: "\f103";
+    left: 0px;
+    top: 0px;
+    color: #ff5a2c;
+    font-weight: 700;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #010101 !important;
+    background-color: #213f651a !important;
+	    border-radius: 10px 10px 0px 0px;
+ 
+}
+.accordion-button {
+	font-weight: 500;
+		background-color: #213f651a !important;
+		margin-top:10px;
+		    border-radius: 10px 10px 0px 0px;
+}
+
+ 
+.accordion-item {
+ 
+    border: 0px !important;
+}
+
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 0rem !important;
+}

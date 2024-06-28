@@ -31,7 +31,7 @@
                         <li class="nav-item"><a href="#" class="nav-link active">Acceuil</a></li>
                         <li class="nav-item"><a href="about.html" class="nav-link">Formations</a>
 							 <ul class="navbar-nav nav mx-auto">
-                                <li class="nav-item"><a href="#" class="nav-link">Finance</a></li> 
+                                <li class="nav-item"><a href="formation-finance.php" class="nav-link">Finance</a></li> 
                                 <li class="nav-item"><a href="#" class="nav-link">Controle de gestion</a></li> 
                                 <li class="nav-item"><a href="#" class="nav-link">Audit</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Staratégie</a></li>

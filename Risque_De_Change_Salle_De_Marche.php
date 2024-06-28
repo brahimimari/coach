@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.101 - Finance pour Dirigeants non financiers</h1>
+                        <h1>F.107 _ Hedging & Salle des marchés</h1>
                         
                     </div>
                 </div>              
@@ -80,43 +80,35 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre"> Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion
- et Responsables de trésorerie</p>
+					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion et Responsables de trésorerie</p>
 
 								</div>
 							</div> 
 							
 					<h3 class="h3formation">Le programme de la formation </h3>
-
-<p>Première partie : L’essentiel de la comptabilité générale et de l’analyse financière pour non Financiers
-</p>
+ 
 
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 1. Comprendre l’information comptable </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">Partie 1 : La démystification du risque de change</button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
-					<ul class="step_point">
-						<li>Finalité de la comptabilité</li>
-						<li>Apprendre à lire les documents financiers</li>
-						<li>Interpréter le bilan et le compte de produits et charges.</li>
-					</ul> 
+					 
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Techniques de l’analyse financière</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Partie 2 : Les instruments internes de couverture (Couverture à 0 DH)</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-                                    <li>Analyse financière fondée sur le bilan (FDR, BFR, Trésorerie)</li>
-                                    <li>Analyse par les ratios</li>
-                                    <li>Analyse du Compte Poduits & Charge</li>
+                                    <li>Le termaillage (leads and lags)</li>
+                                    <li>Le Netting</li>
 					</ul>
 					</p>
                 </div>
@@ -124,28 +116,67 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Deuxième partie : La banque et l’entreprise </button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Partie 3 : Les instruments externes de couverture</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
                     <ul class="step_point">
-                                    <li>Les différentes formules de financements</li>
-                                    <li>Les supports de placemets</li>
-                                 </ul>
+						<li>Le change au comptant</li>
+						<li>Le change à terme</li>
+						<li>L'option de change</li>
+ 					</ul>
                 </div>
             </div>
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Troisième partie : Bourse & Business English</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Partie 4 : Les stratégies optionnelles</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
-								<ul class="step_point">
-                                    <li>Aperçu sur la bourse</li>
-                                    <li>Business English</li>
-                                 </ul>
+					<ul class="step_point">
+						<li>Modalités d’utilisation des options</li>
+						<li>Modalités de participative</li>
+						<li>L’option tunnel</li>
+						<li>L’option spread</li>
+						<li>L’option à moyenne</li>
+					 </ul>
+                </div>
+            </div>
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">  Partie 5 : Les options "conditionnelles</button>                     
+            </h2>
+            <div id="collapsefive" class="accordion-collapse collapse">
+                <div class="card-body">
+					<ul class="step_point">
+						<li>L’option airbag</li>
+						<li>L’option Auto - Bloquant5.2. L’option Auto - Bloquant</li>
+						<li>L’option rétroviseur</li>
+ 					 </ul>
+                 </div>
+            </div>
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">    Partie 6 : Synthèse des stratégies</button>                     
+            </h2>
+            <div id="collapsesix" class="accordion-collapse collapse">
+                <div class="card-body">
+                </div>
+            </div>
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseseven">    Partie 7 : La comptabilité des options</button>                     
+            </h2>
+            <div id="collapseseven" class="accordion-collapse collapse">
+                <div class="card-body">
                 </div>
             </div>
         </div>
@@ -155,12 +186,12 @@
 						
 <div class="cadreformation">
 								<div>
-								<ul class="step_point">
-                                    <li>  Acquérir le vocabulaire financier, lire et comprendre les informations comptables et financières</li>
-									<li>  Communiquer avec la direction comptable & financière</li>
-									<li>  Comprendre et analyser un bilan et un compte de produits & charges</li>
-									<li>  Comprendre l’univers Banque – Entreprise</li>
-									<li>  Comprendre le monde de la bourse</li>
+								<ul class="step_point">                                  
+									<li>    S'initier à la pratique des options de change au Maroc</li>
+									<li>	Comprendre les mécanismes des options de change</li>
+									<li>	Maitriser les instruments de couverture de change existants au Maroc</li>
+									<li>	Définir une politique de gestion du risque de change pour son entreprise</li>
+									<li>	Réduire le risque de change et Maitriser son cout d’achat à l’importation / son cout de revient à l’exportation</li>
 								 </ul>  
 
 								</div>
