@@ -17,7 +17,7 @@
  					 </div>
 					
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="#"><img src="images/pngtree-technology-round-dashboard-image_908915.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="#"><img src="images/new-H.R-dashboard.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
                             <a href="#" class="read_more-btn">S.406</a>
                         </div>
@@ -71,13 +71,13 @@
                    <div class="single-courses">
 				    <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="#">Approche pratique de l’Audit interne</a></h3>
+                            <h3><a href="Approche-pratique-de-audit-interne.php">Approche pratique de l’Audit interne</a></h3>
  
                          </div>
 					 </div>
 						 
                     <div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="#"><img src="images/audit-interne.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="Approche-pratique-de-audit-interne.php"><img src="images/audit-interne.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
                             <a href="#" class="read_more-btn">S.301</a>
                         </div>
@@ -92,7 +92,7 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
  
                              </ul>
-							 						 <a href="#" class="cart_btn">Voir la formation</a>
+							 						 <a href="Approche-pratique-de-audit-interne.php" class="cart_btn">Voir la formation</a>
 
                          </div>
                     </div>
