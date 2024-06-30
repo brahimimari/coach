@@ -337,7 +337,7 @@
             <div class="col-12 col-sm-6 col-md-6 col-lg-4">
                 <div class="single-courses">
                     <div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="#"><img src="images/pngtree-technology-round-dashboard-image_908915.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="#"><img src="images/new-H.R-dashboard.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
                             <a href="#" class="read_more-btn">S.406</a>
                         </div>
