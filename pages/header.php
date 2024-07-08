@@ -48,7 +48,7 @@
                                 <li class="nav-item"><a href="#" class="nav-link">Coaching</a></li>
                             </ul> 
                         </li>
-                        <li class="nav-item"><a href="#" class="nav-link">Aganda</a>
+                        <li class="nav-item"><a href="aganda.php" class="nav-link">Aganda</a>
                  
                         </li> 
 						<li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>

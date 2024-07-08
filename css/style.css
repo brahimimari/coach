@@ -145,13 +145,14 @@ select {
     font-weight: 700;
     letter-spacing: 2px; }
   .sub_title p {
-    padding: 25px 10% 0;
+    padding: 25px 2% 0;
+	font-size:16px;
     margin: 0; }
 
 .title h2 {
   font-family: "Roboto", sans-serif;
   letter-spacing: 2px;
-  font-weight: 900; }
+  font-weight: 500; }
 
 .p-l {
   padding-left: 15px; }

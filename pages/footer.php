@@ -16,10 +16,10 @@
                     <div class="footer_single_col">
                         <h3>Formations</h3>
                         <ul class="location_info quick_inf0">
-								<li><a href="#" >Controle de gestion</a></li> 
-								<li><a href="#" >Finance</a></li> 
-                                <li><a href="#" >Audit</a></li>
-                                <li><a href="#" >Staratégie</a></li>
+								<li><a href="formation-controle-de-gestion.php" >Controle de gestion</a></li> 
+								<li><a href="formation-finance.php" >Finance</a></li> 
+                                <li><a href="formation-audit.php" >Audit</a></li>
+                                <li><a href="formation-strategie-oriente-client.php" >Staratégie</a></li>
                         </ul>                         
                     </div>
                 </div>
@@ -29,10 +29,10 @@
  						<ul class="quick_inf0">
 						
                                 
-                                <li><a href="#" >Crédit management</a></li>
-                                <li><a href="#" >R.H.</a></li>
-                                <li><a href="#" >Coaching</a></li>
-                                <li><a href="#" >Commercial</a></li>
+                                <li><a href="formation-credit-Management.php" >Crédit management</a></li>
+                                <li><a href="formation-gestion-des-ressources-humaines.php" >R.H.</a></li>
+                                <li><a href="formation-coaching.php" >Coaching</a></li>
+                                <li><a href="formation-commerial.php" >Commercial</a></li>
  
                         </ul>
                     </div>
@@ -45,8 +45,9 @@
 							BP N° 4 - Km 8,5 - Route de Rabat.
 						</p>
                         <div class="contact_info">
-                            <span>Fixe : +212 5 22 35 07 04 / GSM : +212 6 61 06 67 64</span> 
-                            <span class="email">coach_dir@menara.ma / coachconsulting.ma@gmail.com</span>
+                            <span>Fixe : +212 5 22 35 07 04 <br /> GSM : +212 6 61 06 67 64</span> 
+                            <span class="">coach_dir@menara.ma</span>
+                            <span class="">coachconsulting.ma@gmail.com</span>
                         </div>
                         <ul class="social_items d-flex list-unstyled">
                             <li><a href="#"><i class="fab fa-facebook-f fb-icon"></i></a></li>
