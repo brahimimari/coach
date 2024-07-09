@@ -161,143 +161,7 @@
 </header> <!--  End header section-->
 
 
-
-<section class="login_signup_option">
-    <div class="l-modal is-hidden--off-flow js-modal-shopify">
-        <div class="l-modal__shadow js-modal-hide"></div>
-        <div class="login_popup login_modal_body">
-            <div class="Popup_title d-flex justify-content-between">
-                <h2 class="hidden">&nbsp;</h2>
-                <!-- Nav tabs -->
-                <div class="row">
-                    <div class="col-12 col-lg-12 col-md-12 col-lg-12 login_option_btn">
-                        <ul class="nav nav-tabs" role="tablist">
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#login" role="tab">Login</a></li>
-                            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#panel2" role="tab">Register</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-12 col-lg-12 col-md-12 col-lg-12">
-                        <!-- Tab panels -->
-                        <div class="tab-content card">
-                            <!--Login-->
-                            <div class="tab-pane fade in show active" id="login" role="tabpanel">
-                                <form action="#">
-                                    <div class="row">
-                                        <div class="col-12 col-lg-12 col-md-12 col-lg-12">
-                                            <div class="form-group">
-                                                <label class="control-label">Email</label>
-                                                <input type="email" class="form-control" placeholder="Username">
-                                            </div>
-                                        </div>
-                                        <div class="col-12 col-lg-12 col-md-12 col-lg-12">
-                                            <div class="form-group">
-                                                <label class="control-label">Password</label>
-                                                <input type="password" class="form-control" placeholder="Password">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-12 col-lg-12 col-md-12 col-lg-12 d-flex justify-content-between login_option">
-                                            <a href="forgot-password.html" title="" class="forget_pass">Forget Password ?</a>
-                                            <button type="submit" class="btn btn-default login_btn">Login</button>
-                                        </div> 
-                                        <div class="col-12 col-lg-12 col-md-12 col-lg-12">
-                                            <div class="social_login">
-                                                <div class="social_items">
-                                                    <button class="google_login google">Login Google</button>
-                                                    <button class="google_login facebook">Login Facebook</button>
-                                                    <button class="google_login twitter">Login Twitter</button>
-                                                    <button class="google_login linkdin">Login Linkdin</button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                            <!--/.Panel 1-->
-                            <!--Panel 2-->
-                            <div class="tab-pane fade" id="panel2" role="tabpanel">
-                                <form action="#" class="register">
-                                    <div class="row">
-                                        <div class="col-12 col-lg-12 col-md-12 col-lg-12">
-                                            <div class="form-group">
-                                                <label  class="control-label">Name</label>
-                                                <input type="text" class="form-control" placeholder="Username">
-                                            </div>
-                                        </div>                                        
-                                        <div class="col-12 col-lg-12 col-md-12 col-lg-12">
-                                            <div class="form-group">
-                                                <label  class="control-label">Email</label>
-                                                <input type="email" class="form-control" placeholder="Email">
-                                            </div>
-                                        </div>
-                                        <div class="col-12 col-lg-12 col-md-12 col-lg-12">
-                                            <div class="form-group">
-                                                <label  class="control-label">Password</label>
-                                                <input type="password" class="form-control" placeholder="Password">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-12 col-lg-12 col-md-12 col-lg-12 d-flex justify-content-between login_option">
-                                            <button type="submit" class="btn btn-default login_btn">Register</button>
-                                        </div> 
-                                    </div>
-                                </form>
-                            </div><!--/.Panel 2-->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>  <!-- End Login Signup Option -->
-
-
-
-
-<section class="cources_highlight">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
-                <div class="latest_blog_carousel">
-                     <div class="single_item single_item_first">
-                        <div class="blog-img">
-                            <a href="#"><img src="images/accompagnement.jpg" alt="" class="img-fluid"></a>
-                        </div>
-                        <div class="blog_title">
-                             <h3><a href="#" title="">Accompagnement</a></h3> 
-                            <p>Coach Consulting vous accompagne à renforcer la contribution de vos fonctions finance te contrôle de gestion dans la performance économique de votre entreprise et ce par :....</p>                    
-                        </div>   
-                    </div>
-
-                    <div class="single_item single_item_center">
-                        <div class="blog-img">
-                            <a href="#" title=""><img src="images/recrutement.jpg" alt="" class="img-fluid"></a>
-                        </div>
-                        <div class="blog_title">
-                             <h3><a href="#" title="">Recrutement</a></h3> 
-                            <p>Votre entreprise se développe et vous recrutez, vous souhaitez optimiser la gestion des compétences de votre entreprise et accompagner vos collaborateurs : Coach Consulting révèle et découvre le meilleur de l’Homme...</p>                    
-                        </div>   
-                    </div>
-
-                   <div class="single_item single_item_last">
-                        <div class="blog-img">
-                            <a href="#" title=""><img src="images/coaching-professionnel.webp" alt="" class="img-fluid"></a>
-                        </div>
-                        <div class="blog_title">
-                             <h3><a href="#" title="">Coaching</a></h3> 
-                             <p>Coach Consulting propose aux particuliers et aux professionnels un accompagnement individuel sous forme de coaching personnel ou professionnel afin de les aider à atteindre leurs objectifs et résoudre leurs problématiques.....</p>  
-                        </div>   
-                    </div>
-
-                </div>
-            </div>             
-        </div>
-    </div>
-</section><!-- End Popular Courses Highlight -->
-
-
+ 
 <section class="popular_courses">
     <div class="container"> 
         <div class="row">
@@ -413,7 +277,7 @@
                     </div>
                     <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="#">Du stress à l'énergie positive<br />&nbsp;<br />
+                            <h3><a href="#">Du stress à l'énergie positive
 </a></h3>
                          </div>
                         <div class="courses_info">
@@ -437,7 +301,7 @@
                     </div>
                     <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="#">Concevoir une stratégie orientée clients</a></h3>
+                            <h3><a href="#">Stratégie commercaile en période de crise</a></h3>
                          </div>
                         <div class="courses_info">
                             <ul class="list-unstyled">

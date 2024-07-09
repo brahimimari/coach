@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.1301 _ Concevoir une stratégie orientée clients</h1>
+                        <h1>S.1301 _ Stratégie commercaile en période de crise</h1>
                         
                     </div>
                 </div>              

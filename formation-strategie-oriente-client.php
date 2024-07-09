@@ -73,7 +73,7 @@
                 <div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Concevoir-Une-Strategie-Oriente-Clients.php">Concevoir une stratégie orientée clients
+                            <h3><a href="Concevoir-Une-Strategie-Oriente-Clients.php">Stratégie commercaile en période de crise
 </a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
