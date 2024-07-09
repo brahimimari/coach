@@ -152,7 +152,7 @@ select {
 .title h2 {
   font-family: "Roboto", sans-serif;
   letter-spacing: 2px;
-  font-weight: 5	00; }
+  font-weight: 500; }
 
 .p-l {
   padding-left: 15px; }
@@ -1173,6 +1173,7 @@ header {
       padding: 20px; }
       .popular_courses .single-courses .courses_info_wrapper .courses_title h3 {
         margin: 0;
+		text-align: center;
         line-height: 26px; }
         .popular_courses .single-courses .courses_info_wrapper .courses_title h3 a {
           color: #323232;
