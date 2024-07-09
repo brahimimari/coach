@@ -211,7 +211,7 @@
 				
 		 </ul> 
  
-	<h3 class="h3formation">Dates & Prix</h3>
+	<h3 class="h3formation">Investissement</h3>
 	  <ul class="step_point">
                                     <li>    7 500 MAD H.T. par participant. <br />
 										La documentation, Les déjeuners et les pauses - cafés (sur place) sont inclus.
