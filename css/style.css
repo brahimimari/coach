@@ -1218,7 +1218,9 @@ header {
             .popular_courses .single-courses .courses_info_wrapper .courses_info ul li i {
               padding-right: 10px; }
         .popular_courses .single-courses .courses_info_wrapper .courses_info .cart_btn {
-          background: #ff5a2c;
+          
+		  border-radius: 7px;
+		  background: #ff5a2c;
           font-weight: 500;
           border-radius: 0;
           color: #ffffff;
