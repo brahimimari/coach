@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12">
                 <div class="title">
-                    <h3 style="color:#fff;">Ces formations peuvent aussi vous intéresser</h3>
+                    <h3 style="color:#fff;">Ces formations vous intéressent</h3>
                 </div><!-- ends: .section-header -->
             </div>
             <div class="col-12 col-sm-12 col-md-12 col-lg-12">
