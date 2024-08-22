@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.203 _ Advanced Budgeting</h1>
+                        <h1>S.601 _ Scoring et Gestion des risques clients</h1>
                         
                     </div>
                 </div>              
@@ -80,53 +80,64 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre"> Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion
- et Responsables de trésorerie</p>
+					 <p class="textecadre"> Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs Credit Management, Credit Managers, Directeurs commerciaux, Directeurs financiers, Responsables financiers, Comptables et Contrôleurs de gestion</p>
 
 								</div>
 							</div> 
 							
 					<h3 class="h3formation">Le programme de la formation </h3>
 
-<p>Première partie : L’essentiel de la comptabilité générale et de l’analyse financière pour non Financiers
-</p>
+ 
 
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1.La gestion budgétaire : Utilité & principes </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 1. Les origines & Enjeux du Crédit Management </button>									
             </h2>
-        
-			<div id="collapseOne" class="accordion-collapse collapse">
+            <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
-								<ul class="step_point">
-                                    <li>	La relation Stratégie / Budgets</li>
-									<li>	La procédure budgétaire : étapes, intervenants, calendrier, organisation, hypothèses</li>
-                                 </ul>
-                </div>
-            </div>		
-			
+					<ul class="step_point">
+						<li>Les risques Clients</li>
+						<li>La fonction et la place du Credit Manager</li>
+ 					</ul> 
+				</div>
+			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Le système budgétaire</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. L’évaluation des risques clients</button>
             </h2>
-           
-        </div>
-        
-		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">3.Elaboration des différents budgets</button>                     
-            </h2>
-            <div id="collapsefoor" class="accordion-collapse collapse">
+            <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
-								<ul class="step_point">
-                                    <li>Le budget des ventes - Cas pratique sur ordinateur</li>
-									<li>Le budget des investissements - Cas pratique sur ordinateur</li>
-									<li>	Le budget de production - Cas pratique sur ordinateur</li>
-									<li>	Les différents budgets de fonctionnement - Cas pratique sur ordinateur</li>
-									<li>	Le Budget Base Zéro (Techniques de réduction des coûts et Méthodologie)</li>
+                    <p>
+					<ul class="step_point">
+                                    <li>Fiche de Connaissance du client / Prospect _ Modèle sur Excel</li>
+                                    <li>Evaluation du client / Prospect</li>
+                                    <li>Le Scoring
+									<br />
+										<ul class="step_point">
+											<li>Profil Payeur _ Modèle sur Excel</li>
+											<li>Fonction Score Z _ Modèle sur Excel</li>
+											<li>Méthode de poids de factures / Poids du client _ Modèle sur Excel</li>
+											<li>Méthode des points de risque_ Modèle sur Excel</li>
+ 										</ul>
+									</li>
+                                    <li>Fonction Score Z</li>
+                                     <li>Suivre le client</li>
+					</ul>
+					</p>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. La prévention et la couverture des risques clients </button>                     
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse">
+                <div class="card-body">
+                    <ul class="step_point">
+                                    <li>La prévention</li>
+                                    <li>Le choix du support de paiement</li>
                                  </ul>
                 </div>
             </div>
@@ -134,34 +145,22 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">4.Le budget de trésorerie : simuler les flux de cash - Cas pratique sur ordinateur</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4. Le recouvrement des créances clients</button>                     
             </h2>
             
         </div>
-		
-		
-		
-			<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">5.Contrôle budgétaire : Mesurer et analyser les écarts budgétaires</button>                     
-            </h2>
-              <div id="collapsesix" class="accordion-collapse collapse">
-                <div class="card-body">
-								<ul class="step_point">
-                                    <li>L&#39;analyse des écarts : mesure et interprétation.</li>
-                                 </ul>
-                </div>
-            </div>
-        </div>
-		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">6.Représentation graphique des budgets</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">5. Le financement du poste clients</button>                     
             </h2>
             
         </div>
-		
-		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">6. Le tableau de bord du Credit Manager _ Modèle sur Excel</button>                     
+            </h2>
+            
+        </div>
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
@@ -169,13 +168,12 @@
 <div class="cadreformation">
 								<div>
 								<ul class="step_point">
-								
-									<li>Appréhender la culture budgétaire et son utilité au sein de l’entreprise</li>
-									<li>Maitriser les différentes techniques de budgétisation</li>
-									<li>Apprendre à budgétiser les différentes fonctions de l’entreprise</li>
-									<li>Maitriser les techniques du contrôle budgétaire</li>
-                                    
-								 </ul>  
+                                    <li>  Savoir identifier les risques Prospects / Clients</li>
+									<li>  Réussir sa prise de fonction de Credit Manager</li>
+									<li>  Scorer le risque clients et définir la politique de crédit en conséquent</li>
+									<li>  Mettre en place une démarche de prévention des risques Prospects / Clients</li>
+									<li>  Bâtir une procédure de Gestion préventive des risques Clients</li>
+ 								 </ul>  
 
 								</div>
 							</div> 	
@@ -183,26 +181,20 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>    Mastère en Management financier et techniques de bourse</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
-
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale</li>
-			<li>	Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
-			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
-			
-			
+ 			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
+ 			<li>	Mastère en Management financier et techniques de bourse</li>
+			<li>	Mastère en Coaching</li>
+			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>	Ex Directeur Finance et Contrôle de gestion dans une Multinationale</li>
+			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
 			<li>	Consultant – Séminariste depuis l’an 2000</li>
-			<li>	Coach Professionnel Diplômé</li>
-			<li>	Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
-			<li>	Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
-			
-			<li>	Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
+			<li>	Coach Professionnel diplômé de l’EHTP</li>
+			<li>	Professeur de Finance et Contrôle de gestion aux Mastères de l’Université Internationale de Casablanca</li>
+			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
+			<li>	Ex Professeur de Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
+			<li>	Ex Professeur d&#39;Audit et de Contrôle de gestion à l’ENCG - Casablanca &amp; Settat</li>
+ 			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l&#39;Ecole Française des Affaires</li>
 				
-
 		 </ul> 
  
 	<h3 class="h3formation">Investissement</h3>

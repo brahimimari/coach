@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.203 _ Advanced Budgeting</h1>
+                        <h1>S.203 _ KPI, KRI &amp; DATA Visualisation</h1>
                         
                     </div>
                 </div>              
@@ -94,39 +94,53 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1.La gestion budgétaire : Utilité & principes </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Pourquoi les KPI, KRI &amp; la Data Visualisation ? </button>									
             </h2>
-        
-			<div id="collapseOne" class="accordion-collapse collapse">
-                <div class="card-body">
-								<ul class="step_point">
-                                    <li>	La relation Stratégie / Budgets</li>
-									<li>	La procédure budgétaire : étapes, intervenants, calendrier, organisation, hypothèses</li>
-                                 </ul>
-                </div>
-            </div>		
-			
+            
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Le système budgétaire</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Méthodologie de construction du Trombino Managérial – Volet Pratique</button>
             </h2>
-           
+             <div id="collapseTwo" class="accordion-collapse collapse">
+                <div class="card-body">
+								<ul class="step_point">
+                                    <li>Présentation Générale</li>
+									<li>Les principes de conception et de fonctionnement</li>
+									<li>Les instruments du Trombino managérial <br /><br />
+									
+										<ul class="step_point">
+											<li>Les valeurs absolues et relatives</li>
+											<li>Les clignotants</li>
+											<li>Le choix des graphiques</li>
+											<li>Les flashs et Analyses</li>
+										 </ul>
+											
+									</li>
+									<li>Les KPI &amp; KRI : Indicateurs de performance et de risque <br /> <br /> 
+										
+										<ul class="step_point">
+											<li>Méthode de recherche des KPI &amp; KRI</li>
+											<li>Qualité des KPI &amp; KRI</li>
+											<li>Test des KPI &amp; KRI</li>
+ 										 </ul>
+											
+									
+									</li>
+                                 </ul>
+                </div>
+            </div>
         </div>
         
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">3.Elaboration des différents budgets</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">3.Développement de votre Trombino Managérial _ Métier - Volet pratique sur PC</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
 								<ul class="step_point">
-                                    <li>Le budget des ventes - Cas pratique sur ordinateur</li>
-									<li>Le budget des investissements - Cas pratique sur ordinateur</li>
-									<li>	Le budget de production - Cas pratique sur ordinateur</li>
-									<li>	Les différents budgets de fonctionnement - Cas pratique sur ordinateur</li>
-									<li>	Le Budget Base Zéro (Techniques de réduction des coûts et Méthodologie)</li>
+                                    <li>Graphiques : Confrontation Réalisé / Objectif, Structure de résultat, Piles, Baromètre, Graphiques juxtaposés, Grandes masses, ….</li>
                                  </ul>
                 </div>
             </div>
@@ -134,34 +148,16 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">4.Le budget de trésorerie : simuler les flux de cash - Cas pratique sur ordinateur</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">4.Étapes du projet de mise en place du Trombino Managérial</button>                     
             </h2>
             
         </div>
-		
-		
-		
-			<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">5.Contrôle budgétaire : Mesurer et analyser les écarts budgétaires</button>                     
-            </h2>
-              <div id="collapsesix" class="accordion-collapse collapse">
-                <div class="card-body">
-								<ul class="step_point">
-                                    <li>L&#39;analyse des écarts : mesure et interprétation.</li>
-                                 </ul>
-                </div>
-            </div>
-        </div>
-		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">6.Représentation graphique des budgets</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">5	.Processus d&#39;analyse des écarts et rédaction des plans d&#39;actions</button>                     
             </h2>
             
         </div>
-		
-		
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
@@ -169,13 +165,13 @@
 <div class="cadreformation">
 								<div>
 								<ul class="step_point">
-								
-									<li>Appréhender la culture budgétaire et son utilité au sein de l’entreprise</li>
-									<li>Maitriser les différentes techniques de budgétisation</li>
-									<li>Apprendre à budgétiser les différentes fonctions de l’entreprise</li>
-									<li>Maitriser les techniques du contrôle budgétaire</li>
-                                    
-								 </ul>  
+									<li>Valoriser l’utilité des KPI, KRI et de la DATA Visualisation</li>
+									<li>Maîtriser la méthodologie de collecte des besoins en information</li>
+									<li>Documenter les KPI, KRI et développer le manuel de procédures du Trombino managérial</li>
+									<li>Développer de nouvelles formes graphiques</li>
+									<li>Concevoir des maquettes de Trombino managérial de performance</li>
+									<li>Adapter la conception aux spécificités de son entreprise</li>
+								</ul>  
 
 								</div>
 							</div> 	

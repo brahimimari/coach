@@ -3,11 +3,11 @@
 							
 							<div class="courses_features widget_single">
                         <div class="items-title">
-                            <h3 class="title">Caractéristiques des Cours</h3>
+                            <h3 class="title">Spécificités de la formation</h3>
                         </div>
                         <div class="features_items">
                             <ul class="list-unstyled">
-                                <li><a href="#" title=""><i class="flaticon-page"></i> Travaux pratique </a><span>9</span></li>
+                                <li><a href="#" title=""><i class="flaticon-page"></i> Cas pratiques </a><span></span></li>
                                  <li><a href="#" title=""><i class="flaticon-clock-circular-outline"></i> Durée</a><span>2 jours</span></li>
                                 <li><a href="#" title=""><i class="flaticon-padlock"></i> Prérequis</a><span>Aucun</span></li>
                                 <li><a href="#" title=""><i class="flaticon-diploma"></i> Certification</a><span>Oui</span></li>                                
@@ -31,7 +31,7 @@
                         <div class="archives-items">
                             <ul class="list-unstyled">
 								<li class=""><a href="#" class="">Finance</a></li> 
-                                <li class=""><a href="#" class="">Controle de gestion</a></li> 
+                                <li class=""><a href="#" class="">Management Control</a></li> 
                                 <li class=""><a href="#" class="">Audit</a></li>
                                 <li class=""><a href="#" class="">Staratégie</a></li>
                                 <li class=""><a href="#" class="">Crédit management</a></li>

@@ -73,13 +73,13 @@
                 <div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Gestion_preventive_des_risques_clients.php">Gestion préventive des risques clients</a></h3>
+                            <h3><a href="scoring-et-gestion-des-risques-clients.php">Scoring et Gestion des risques clients</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="Gestion_preventive_des_risques_clients.php"><img src="images/gestion-risque-client.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="scoring-et-gestion-des-risques-clients.php"><img src="images/gestion-risque-client.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
                               <a href="#" class="read_more-btn">S.601</a> 
                         </div>
@@ -93,7 +93,7 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="Gestion_preventive_des_risques_clients.php" class="cart_btn">Voir la formation</a>
+						 <a href="scoring-et-gestion-des-risques-clients.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 

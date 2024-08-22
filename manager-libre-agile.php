@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.203 _ Advanced Budgeting</h1>
+                        <h1>F.704 _ Manager Libre & Agile</h1>
                         
                     </div>
                 </div>              
@@ -80,88 +80,116 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre"> Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion
- et Responsables de trésorerie</p>
-
+					 					 <p class="textecadre">Cette formation s'adresse à tous les cadres et dirigeants , tels que les Directeurs généraux, Directeurs commerciau, Credit Managers, Directeurs Credit Management et Responsables commerciaux.</p>
 								</div>
 							</div> 
 							
 					<h3 class="h3formation">Le programme de la formation </h3>
 
-<p>Première partie : L’essentiel de la comptabilité générale et de l’analyse financière pour non Financiers
-</p>
-
+	<p><b>I. S’occuper de soi – Un Zoom sur son intérieur</b></p>
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1.La gestion budgétaire : Utilité & principes </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1 - L'assertivité pour s'affirmer</button>									
             </h2>
-        
-			<div id="collapseOne" class="accordion-collapse collapse">
+            <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
-								<ul class="step_point">
-                                    <li>	La relation Stratégie / Budgets</li>
-									<li>	La procédure budgétaire : étapes, intervenants, calendrier, organisation, hypothèses</li>
-                                 </ul>
-                </div>
-            </div>		
-			
+ 					<ul class="step_point">
+						<li>Oser s'affirmer dans son entreprise</li>
+						<li>Test d’assertivité</li>
+						<li>Exprimer une critique constructive</li>
+  					</ul> 
+				</div>
+			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Le système budgétaire</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo"> 2 - Réagir aux comportements passifs - agressifs et manipulateurs</button>
             </h2>
-           
+            <div id="collapseTwo" class="accordion-collapse collapse ">
+                <div class="card-body">
+                    <p>
+					<ul class="step_point">
+                                    <li>Qu’est ce qu’un passif - agressif</li>
+                                    <li>Comment le gérer ?</li>
+                                    <li>Qu’est ce qu’un manipulateur</li>
+                                    <li>Des conseils pour se protéger des manipulateurs</li>
+ 					</ul>
+					</p>
+                </div>
+            </div>
         </div>
-        
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3 - L'écoute active pour créer le contact </button>                     
+            </h2>
+             <div id="collapseThree" class="accordion-collapse collapse">
+                <div class="card-body">
+								<ul class="step_point">
+                                    <li>Test : Savez vous écouter ?</li>
+                                    <li>Comment écouter activement ?</li>
+                                    <li>Entraînement pratique à l’écoute active en binôme.</li>
+                                    <li>La méthode DISC et l’écoute</li>
+                                    <li>Test : Couleur de votre personnalité</li>
+                                 </ul>
+                </div>
+            </div>
+        </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">3.Elaboration des différents budgets</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4 – Mieux gérer son stress et retrouver son énergie positive</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
 								<ul class="step_point">
-                                    <li>Le budget des ventes - Cas pratique sur ordinateur</li>
-									<li>Le budget des investissements - Cas pratique sur ordinateur</li>
-									<li>	Le budget de production - Cas pratique sur ordinateur</li>
-									<li>	Les différents budgets de fonctionnement - Cas pratique sur ordinateur</li>
-									<li>	Le Budget Base Zéro (Techniques de réduction des coûts et Méthodologie)</li>
+                                    <li>Identifier ses signaux d&#39;alerte</li>
+                                    <li>Carte du stress dans l’entreprise</li>
+                                    <li>Les stratégies de lutte contre le stress</li>
+                                    
                                  </ul>
                 </div>
             </div>
         </div>
-		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">4.Le budget de trésorerie : simuler les flux de cash - Cas pratique sur ordinateur</button>                     
+    </div>
+
+	<br />
+		<p><b>II. S’ouvrir sur les autres</b></p>
+    
+   <div class="accordion" id="myAccordion">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOneOne">1 - Les positions de vie « Okness » pour mieux communiquer</button>									
             </h2>
-            
-        </div>
-		
-		
-		
-			<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">5.Contrôle budgétaire : Mesurer et analyser les écarts budgétaires</button>                     
-            </h2>
-              <div id="collapsesix" class="accordion-collapse collapse">
+            <div id="collapseOneOne" class="accordion-collapse collapse show">
                 <div class="card-body">
-								<ul class="step_point">
-                                    <li>L&#39;analyse des écarts : mesure et interprétation.</li>
-                                 </ul>
+ 					<ul class="step_point">
+						<li>Repérer et dépasser ses limites</li>
+						<li>Test d’auto – évaluation Okness</li>
+						<li>L’ Okness dans l’entreprise</li>
+  					</ul> 
+				</div>
+			</div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTwo">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwoTwo"> 2 - Renforcer la confiance en soi</button>
+            </h2>
+            <div id="collapseTwoTwo" class="accordion-collapse collapse ">
+                <div class="card-body">
+                    <p>
+					<ul class="step_point">
+                                    <li>Qu’est ce que la Confiance en soi</li>
+                                    <li>Test de Confiance de soi</li>
+                                    <li>Les 9 solutions pour développer la confiance en soi</li>
+  					</ul>
+					</p>
                 </div>
             </div>
         </div>
+        
 		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">6.Représentation graphique des budgets</button>                     
-            </h2>
-            
-        </div>
-		
-		
+		 
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
@@ -169,12 +197,11 @@
 <div class="cadreformation">
 								<div>
 								<ul class="step_point">
-								
-									<li>Appréhender la culture budgétaire et son utilité au sein de l’entreprise</li>
-									<li>Maitriser les différentes techniques de budgétisation</li>
-									<li>Apprendre à budgétiser les différentes fonctions de l’entreprise</li>
-									<li>Maitriser les techniques du contrôle budgétaire</li>
-                                    
+                                    <li>Se connaitre au mieux et se découvrir</li>
+									<li>Développer sa carapace contre les attaques et la manipulation</li>
+									<li>S’introduire dans les pensées des autres via l’écoute</li>
+									<li>Mieux gérer son stress</li>
+									<li>Muscler sa confiance en soi</li> 
 								 </ul>  
 
 								</div>
@@ -183,26 +210,19 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>    Mastère en Management financier et techniques de bourse</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
-
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale</li>
-			<li>	Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
-			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
-			
-			
+			<li>    Mastère en Coaching de L’EHTP</li>
+			<li>    Mastère en Contrôle de gestion, Audit et système d’information</li>
+			<li>	Mastère en Management financier et techniques de bourse</li>
+			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+  			<li>	Ex Directeur Finance et Contrôle de gestion dans une Multinationale</li>
+			<li>	EEx Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
 			<li>	Consultant – Séminariste depuis l’an 2000</li>
-			<li>	Coach Professionnel Diplômé</li>
-			<li>	Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
-			<li>	Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
-			
-			<li>	Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
+			<li>	Coach Professionnel diplômé de l’EHTP</li>
+			<li>	Professeur de Finance et Contrôle de gestion aux Mastères &amp; MBA de l’Université Internationale de Casablanca</li>
+ 			<li>	Ex Professeur en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
+ 			<li>	Ex Professeur d'Audit et de de Contrôle de gestion à l’ENCG - Casablanca & Settat</li>
+			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
 				
-
 		 </ul> 
  
 	<h3 class="h3formation">Investissement</h3>

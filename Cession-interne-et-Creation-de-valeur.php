@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.206 _ Cession interne & Création de valeur</h1>
+                        <h1>F.205 _ Cession interne & Création de valeur</h1>
                         
                     </div>
                 </div>              
@@ -131,22 +131,9 @@
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
                     <ul class="step_point">
-                                    <li>Les différentes formules de financements</li>
-                                    <li>Les supports de placemets</li>
-                                 </ul>
-                </div>
-            </div>
-        </div>
-		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Troisième partie : Bourse & Business English</button>                     
-            </h2>
-            <div id="collapsefoor" class="accordion-collapse collapse">
-                <div class="card-body">
-								<ul class="step_point">
                                     <li>Modèle de la création de valeur</li>
-                                    <li>Cas pratique sur Excel</li>
+                                    <li>KPI de création de valeur</li>
+                                    <li>Modélisation graphique de la création de valeur</li>
                                  </ul>
                 </div>
             </div>
@@ -154,36 +141,32 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">Cas pratique complet</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4.Cas pratique complet _ Entreprise industrielle</button>                     
+            </h2>
+           
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">5.Le Target Cost</button>                     
             </h2>
             <div id="collapsefive" class="accordion-collapse collapse">
                 <div class="card-body">
-							 
+						<ul class="step_point">
+							<li>Démystification du Target Cost</li>
+							<li>Outils du Target Cost <br />
+									<ul class="step_point">
+										<li>B.B.Z.</li>
+										<li>Management Value</li>
+										<li>Arbre des voies technologiques</li>
+								 </ul>
+							</li>
+						 </ul>
                 </div>
             </div>
         </div>
 		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsedix">5. Le Target Cost</button>                     
-            </h2>
-            <div id="collapsedix" class="accordion-collapse collapse">
-                <div class="card-body">
-								<ul class="step_point">
-                                    <li>Démystification du Target Cost</li>
-                                    <li>Outils du Target Cost
-										<br />
-										<br />
-										<ul class="step_point">
-											<li>B.B.Z.</li>
-											<li>Management ValueCas</li>
-											<li>Arbre des voies technologiques</li>
-										 </ul>
-								 </li>
-                                 </ul>
-                </div>
-            </div>
-        </div>
+		 
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
@@ -205,22 +188,28 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>     Finance pour Dirigeants non financiers   Mastère en Management financier et techniques de bourse</li>
 			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>	Mastère en Coaching</li>
+			<li>    Mastère en Management financier et techniques de bourse</li>
 			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale d'énergie</li>
-			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
+			<li>	Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
+
+			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale</li>
+			<li>	Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
+			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
+			
+			
 			<li>	Consultant – Séminariste depuis l’an 2000</li>
 			<li>	Coach Professionnel Diplômé</li>
-			<li>	Expert – Financier auprès de l’ANPME</li>
-			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
-			<li>	Ex Intervenant en Mastère E-logistique de l’ESITH</li>
-			<li>	Ex Professeur d'Audit et de de Contrôle de gestion approfondi à l’ENCG - Casablanca & Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
+			<li>	Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
+			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
+			<li>	Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
+			
+			<li>	Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
+			<li>	Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
 				
+
 		 </ul> 
+ 
  
 	<h3 class="h3formation">Investissement</h3>
 	  <ul class="step_point">

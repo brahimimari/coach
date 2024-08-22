@@ -16,7 +16,7 @@
                     <div class="footer_single_col">
                         <h3>Formations</h3>
                         <ul class="location_info quick_inf0">
-								<li><a href="formation-controle-de-gestion.php" >Controle de gestion</a></li> 
+								<li><a href="formation-management-control.php" >Management Control</a></li> 
 								<li><a href="formation-finance.php" >Finance</a></li> 
                                 <li><a href="formation-audit.php" >Audit</a></li>
                                 <li><a href="formation-strategie-oriente-client.php" >Staratégie</a></li>

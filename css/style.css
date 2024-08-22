@@ -929,7 +929,7 @@ header {
     header .edu_nav nav {
       padding: 0; }
       header .edu_nav nav .navbar-brand img {
-        width: auto; }
+        width: 70%; }
       header .edu_nav nav .navbar-nav li {
         position: relative; }
         header .edu_nav nav .navbar-nav li:hover ul {
@@ -5816,4 +5816,24 @@ font-size:14px !important;color: #fff !important;
 dl, ol, ul {
     margin-top: 0;
     margin-bottom: 0rem !important;
+}
+
+.accordion-button-no {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out, border-radius .15s ease;
+	background-color: #213f651a !important;
+    margin-top: 10px;
+    border-radius: 10px 10px 0px 0px;
+	    font-weight: 500;
 }

@@ -9,7 +9,7 @@
     <meta name="keywords" content="HTML,CSS,XML,JavaScript">
     <meta name="author" content="Ecology Theme">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formation Coaching</title>
+    <title>Formation : Management Control</title>
      <!-- Goole Font -->
     <link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"> 
@@ -51,7 +51,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>Domaine : Coaching & Développement personnel</h1>
+                        <h1>Domaine : Management Control</h1>
                         
                     </div>
                 </div>              
@@ -68,20 +68,19 @@
 <section class="popular_courses" id="popular_courses_page">
     <div class="container"> 
         <div class="row">
-   
-			<div class="col-12 col-sm-6 col-md-6 col-lg-4">
+            <div class="col-12 col-sm-6 col-md-6 col-lg-4">
                 <div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Coaching-de-la-force-de-vente.php">Coaching de la force de vente</a></h3>
+                            <h3><a href="Comptabilite_Analytique.php">Comptabilité analytique</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="Coaching-de-la-force-de-vente.php"><img src="images/coaching-de-la-force-de-vente.png" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="Comptabilite_Analytique.php"><img src="images/comptabilite-analytics.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.701</a> 
+                              <a href="#" class="read_more-btn">S.201</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -93,27 +92,27 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="Coaching-de-la-force-de-vente.php" class="cart_btn">Voir la formation</a>
+						 <a href="Comptabilite_Analytique.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 
            
-		   </div>
-		   
-		   
-		   <div class="col-12 col-sm-6 col-md-6 col-lg-4">
+		   </div><!-- Ends: . -->
+
+
+ <div class="col-12 col-sm-6 col-md-6 col-lg-4">
                 <div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="le-coaching-pour-managers.php">Le coaching pour Managers</a></h3>
+                            <h3><a href="Introduction-au-Controle-de-gestion.php">Introduction au Controle de gestion</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="le-coaching-pour-managers.php"><img src="images/coaching-manager.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="Introduction-au-Controle-de-gestion.php"><img src="images/controlle-de-gestion.png" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">F.702</a> 
+                              <a href="#" class="read_more-btn">S.202</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -125,27 +124,28 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="le-coaching-pour-managers.php" class="cart_btn">Voir la formation</a>
+						 <a href="Introduction-au-Controle-de-gestion.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 
            
-		   </div>
-		   
-		   
-		   <div class="col-12 col-sm-6 col-md-6 col-lg-4">
+		   </div><!-- Ends: . -->
+
+
+ <div class="col-12 col-sm-6 col-md-6 col-lg-4">
                 <div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="du-stressa-l-energie-positive.php">Du stress à l'énergie positive</a></h3>
+                            <h3><a href="Advanced_Budgeting.php">Advanced budgeting 
+</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="du-stressa-l-energie-positive.php"><img src="images/coaching-stress.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="Advanced_Budgeting.php"><img src="images/Advanced-Budgeting.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.703</a> 
+                              <a href="#" class="read_more-btn">F.203</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -157,27 +157,26 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="du-stressa-l-energie-positive.php" class="cart_btn">Voir la formation</a>
+						 <a href="Advanced_Budgeting.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 
-           
-		   </div>
-		   
-		   
-		     <div class="col-12 col-sm-6 col-md-6 col-lg-4">
-                <div class="single-courses">
+                </div> 
+		
+		<div class="col-12 col-sm-6 col-md-6 col-lg-4">
+
+				<div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="manager-libre-agile.php">Manager Libre & Agile</a></h3>
+                            <h3><a href="Tableaux_De_Bord_Mastering.php"> Tableaux de bord Mastering</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="manager-libre-agile.php"><img src="images/manager-libre.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="Tableaux_De_Bord_Mastering.php"><img src="images/do-recruitment-traker-dashboard.webp" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.704</a> 
+                              <a href="#" class="read_more-btn">S.204</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -189,14 +188,45 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="manager-libre-agile.php" class="cart_btn">Voir la formation</a>
+						 <a href="Tableaux_De_Bord_Mastering.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 
            
-		   </div>
+		   </div><!-- Ends: . -->
 		   
-		   <!-- Ends: . -->
+		   
+		<div class="col-12 col-sm-6 col-md-6 col-lg-4">
+
+				<div class="single-courses">
+                     <div class="courses_info_wrapper">
+                        <div class="courses_title">
+                            <h3><a href="Cession-interne-et-Creation-de-valeur.php">Cession interne & Création de valeur</a></h3>
+                          <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
+                        </div>
+                        
+                    </div>
+					<div class="courses_banner_wrapper">
+                        <div class="courses_banner"><a href="Cession-interne-et-Creation-de-valeur.php"><img src="images/creation-de-la-valeur.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="purchase_price">
+                              <a href="#" class="read_more-btn">S.206</a> 
+                        </div>
+                    </div>
+                    <div class="courses_info_wrapper">
+                        <div class="courses_title">
+ 							<div class="teachers_name">Animateur - <a href="#" title="">M. Mohammed NACIR</a></div>
+                         </div>
+                        <div class="courses_info">
+                            <ul class="list-unstyled">
+                                <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
+
+                             </ul>
+						 <a href="Cession-interne-et-Creation-de-valeur.php" class="cart_btn">Voir la formation</a>
+                         </div>
+                    </div>
+                </div> 
+           
+		   </div><!-- Ends: . -->
 
  
 

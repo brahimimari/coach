@@ -32,7 +32,7 @@
                         <li class="nav-item"><a href="#" class="nav-link">Formations</a>
 							 <ul class="navbar-nav nav mx-auto">
                                 <li class="nav-item"><a href="formation-finance.php" class="nav-link">Finance</a></li> 
-                                <li class="nav-item"><a href="formation-controle-de-gestion.php" class="nav-link">Controle de gestion</a></li> 
+                                <li class="nav-item"><a href="formation-management-control.php" class="nav-link">Management Control</a></li> 
                                 <li class="nav-item"><a href="formation-audit.php" class="nav-link">Audit</a></li>
                                 <li class="nav-item"><a href="formation-strategie-oriente-client.php" class="nav-link">Staratégie</a></li>
                                 <li class="nav-item"><a href="formation-credit-Management.php" class="nav-link">Crédit management</a></li>
