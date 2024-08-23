@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.203 _ Advanced Budgeting</h1>
+                        <h1>S.204 _ Advanced Budgeting</h1>
                         
                     </div>
                 </div>              
@@ -94,7 +94,7 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1.La gestion budgétaire : Utilité & principes </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. La gestion budgétaire : Utilité & principes </button>									
             </h2>
         
 			<div id="collapseOne" class="accordion-collapse collapse">
@@ -109,7 +109,7 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Le système budgétaire</button>
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Le système budgétaire</button>
             </h2>
            
         </div>
@@ -117,7 +117,7 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">3.Elaboration des différents budgets</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">3. Elaboration des différents budgets</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
@@ -134,7 +134,7 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">4.Le budget de trésorerie : simuler les flux de cash - Cas pratique sur ordinateur</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#">4. Le budget de trésorerie : simuler les flux de cash - Cas pratique sur ordinateur</button>                     
             </h2>
             
         </div>
@@ -143,7 +143,7 @@
 		
 			<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">5.Contrôle budgétaire : Mesurer et analyser les écarts budgétaires</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">5. Contrôle budgétaire : Mesurer et analyser les écarts budgétaires</button>                     
             </h2>
               <div id="collapsesix" class="accordion-collapse collapse">
                 <div class="card-body">
@@ -156,7 +156,7 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">6.Représentation graphique des budgets</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#">6. Représentation graphique des budgets</button>                     
             </h2>
             
         </div>
@@ -185,7 +185,7 @@
 		 <ul class="step_point">
 			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
 			<li>    Mastère en Management financier et techniques de bourse</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
+			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
 			<li>	Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
 
 			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale</li>

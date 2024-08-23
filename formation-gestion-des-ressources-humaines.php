@@ -9,7 +9,7 @@
     <meta name="keywords" content="HTML,CSS,XML,JavaScript">
     <meta name="author" content="Ecology Theme">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formation R. H.</title>
+    <title>Formation HR Management</title>
      <!-- Goole Font -->
     <link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"> 
@@ -51,7 +51,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>Domaine : R. H.</h1>
+                        <h1>Domaine : HR Management</h1>
                         
                     </div>
                 </div>              
@@ -81,7 +81,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="reussissez-votre-ingenierie-de-formation-en-interne.php"><img src="images/formation-interne.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.401</a> 
+                              <a href="#" class="read_more-btn">F.401</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -100,70 +100,7 @@
            
 		   </div>
 		   
-		   
-		   <div class="col-12 col-sm-6 col-md-6 col-lg-4">
-                <div class="single-courses">
-                     <div class="courses_info_wrapper">
-                        <div class="courses_title">
-                            <h3><a href="gestion-de-la-formation.php">Gestion de la formation</a></h3>
-                          <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
-                        </div>
-                        
-                    </div>
-					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="gestion-de-la-formation.php"><img src="images/gestion-de-la-formation.jpg" alt="" class="img-fluid"></a></div>
-                        <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.402</a> 
-                        </div>
-                    </div>
-                    <div class="courses_info_wrapper">
-                        <div class="courses_title">
- 							<div class="teachers_name">Animateur - <a href="#" title="">M. Mohammed NACIR</a></div>
-                         </div>
-                        <div class="courses_info">
-                            <ul class="list-unstyled">
-                                <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
-
-                             </ul>
-						 <a href="gestion-de-la-formation.php" class="cart_btn">Voir la formation</a>
-                         </div>
-                    </div>
-                </div> 
-           
-		   </div>
-		   
-		   
-		     
-		   <div class="col-12 col-sm-6 col-md-6 col-lg-4">
-                <div class="single-courses">
-                     <div class="courses_info_wrapper">
-                        <div class="courses_title">
-                            <h3><a href="formation-managemenet-equipe.php">Management d’équipe</a></h3>
-                          <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
-                        </div>
-                        
-                    </div>
-					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="formation-managemenet-equipe.php"><img src="images/managment-equipe.jpg" alt="" class="img-fluid"></a></div>
-                        <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.403</a> 
-                        </div>
-                    </div>
-                    <div class="courses_info_wrapper">
-                        <div class="courses_title">
- 							<div class="teachers_name">Animateur - <a href="#" title="">M. Mohammed NACIR</a></div>
-                         </div>
-                        <div class="courses_info">
-                            <ul class="list-unstyled">
-                                <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
-
-                             </ul>
-						 <a href="formation-managemenet-equipe.php" class="cart_btn">Voir la formation</a>
-                         </div>
-                    </div>
-                </div> 
-           
-		   </div>
+		  
 		   
 		   
 		     
@@ -179,7 +116,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="formation-des-formateurs.php"><img src="images/formation-des-formateurs.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.404</a> 
+                              <a href="#" class="read_more-btn">F.402</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -202,7 +139,7 @@
                 <div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Elaboration-de-la-fiche-Poste-Profil.php">Elaboration de la fiche Poste - Profil</a></h3>
+                            <h3><a href="Elaboration-de-la-fiche-Poste-Profil.php">Analyse de poste _Approche Optimisée</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
@@ -210,7 +147,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="Elaboration-de-la-fiche-Poste-Profil.php"><img src="images/formation-fiche-de-poste.webp" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.405</a> 
+                              <a href="#" class="read_more-btn">F.403</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -233,7 +170,7 @@
                 <div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Tableau_De_Bord_R.H.php">New H.R. Dashboard</a></h3>
+                            <h3><a href="Tableau_De_Bord_R.H.php">Pilotage RH &amp; Data Visualisation</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
@@ -241,7 +178,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="Tableau_De_Bord_R.H.php"><img src="images/new-H.R-dashboard.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.406</a> 
+                              <a href="#" class="read_more-btn">F.404</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">

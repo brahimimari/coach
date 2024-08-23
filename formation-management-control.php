@@ -85,7 +85,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="Advanced_Budgeting.php"><img src="images/Advanced-Budgeting.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">F.203</a> 
+                              <a href="#" class="read_more-btn">F.204</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -118,7 +118,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="kpi-kri-data-visualisation.php"><img src="images/kpi.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">F.204</a> 
+                              <a href="#" class="read_more-btn">F.203</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">

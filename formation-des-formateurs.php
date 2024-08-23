@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.404 _ Formation des formateurs</h1>
+                        <h1>S.402 _ Formation des formateurs</h1>
                         
                     </div>
                 </div>              
@@ -98,24 +98,62 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> I. Comprendre les fondamentaux </button>									
+                <button type="button" class="accordion-button-no " data-bs-toggle="collapse" data-bs-target="#collapseOne1"> 1. Lecture de la première expérience de deux participants – volontaires en animation (10 mn.
+chacun) (Pré - formation)</button>									
             </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show">
+           
+        </div>
+
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOneOne"> 2. Test de découverte de soi </button>									
+            </h2>
+            <div id="collapseOneOne" class="accordion-collapse collapse show">
+                <div class="card-body">
+					<ul class="step_point">
+						<li>Test N°1 : Egogramme</li>
+ 					</ul> 
+				</div>
+			</div>
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 3. Comprendre les fondamentaux </button>									
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse ">
                 <div class="card-body">
 					<ul class="step_point">
 						<li>Quelques définitions de base</li>
 						<li>Quelques repères pour comprendre l’apprentissage</li>
 						<li>Profils d’apprenants</li>
 						<li>Les compétences clé du formateur occasionnel</li>
-						<li>Les niveaux d’écoute</li>
+						<li>Les niveaux d’écoute _ Test N°2 : Capacité d’écoute</li>
 						<li>Le feedback</li>
 					</ul> 
 				</div>
 			</div>
         </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOneTwo"> 4. Préparer une formation </button>									
+            </h2>
+            <div id="collapseOneTwo" class="accordion-collapse collapse ">
+                <div class="card-body">
+					<ul class="step_point">
+						<li>Définition des objectifs de la formation</li>
+						<li>Techniques de cadrage</li>
+						<li>Recueil et synthétise de la matière</li>
+						<li>Structure de l’intervention (arbre de la communication)</li>
+						<li>Techniques de passage inter - partie</li>
+ 					</ul> 
+				</div>
+			</div>
+        </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">II. Animer une formation</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">5. Animer une formation</button>
             </h2>
              <div id="collapseTwo" class="accordion-collapse collapse">
                 <div class="card-body">
@@ -129,17 +167,18 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">III. Techniques d’animation </button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">6. Techniques d’animation </button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
                     <ul class="step_point">
                                     <li>La prise d’espace</li>
-                                    <li>La gestion du corps</li>
-                                    <li>La gestion du trac</li>
+                                    <li>La gestion du corps _ Test N°3 : Confiance en soi</li>
+                                    <li>La gestion du trac – cf. Vidéo</li>
                                     <li>Les « trous de mémoire »</li>
                                     <li>La maîtrise des questions</li>
                                     <li>La gestion des comportements difficiles</li>
+                                    <li>Les erreurs à éviter</li>
                                  </ul>
                 </div>
             </div>
@@ -147,15 +186,9 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">IV. Volet Pratique</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor1">7. Lecture de l’expérience deux participants en animation (Post - formation)</button>                     
             </h2>
-            <div id="collapsefoor" class="accordion-collapse collapse">
-                <div class="card-body">
-								<ul class="step_point">
-                                    <li>Jeux de simulation</li>
-                                  </ul>
-                </div>
-            </div>
+            
         </div>
     </div>
 	
@@ -181,20 +214,20 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>     Finance pour Dirigeants non financiers   Mastère en Management financier et techniques de bourse</li>
+			<li>    Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
 			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>	Mastère en Coaching</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale d'énergie</li>
+			<li>	Mastère en Management financier et techniques de bourse</li>
+			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale</li>
+			<li>	Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
 			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
 			<li>	Consultant – Séminariste depuis l’an 2000</li>
 			<li>	Coach Professionnel Diplômé</li>
-			<li>	Expert – Financier auprès de l’ANPME</li>
-			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
-			<li>	Ex Intervenant en Mastère E-logistique de l’ESITH</li>
-			<li>	Ex Professeur d'Audit et de de Contrôle de gestion approfondi à l’ENCG - Casablanca & Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
+			<li>	Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
+ 			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
+			<li>	Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
+			<li>	Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
+			<li>	Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
 				
 		 </ul> 
  

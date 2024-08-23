@@ -81,7 +81,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="Approche-pratique-de-audit-interne.php"><img src="images/audit-interne.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.301</a> 
+                              <a href="#" class="read_more-btn">F.301</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">

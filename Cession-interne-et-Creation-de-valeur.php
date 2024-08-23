@@ -155,7 +155,7 @@
 						<ul class="step_point">
 							<li>Démystification du Target Cost</li>
 							<li>Outils du Target Cost <br />
-									<ul class="step_point">
+									<br/><ul class="step_point">
 										<li>B.B.Z.</li>
 										<li>Management Value</li>
 										<li>Arbre des voies technologiques</li>
@@ -190,7 +190,7 @@
 		 <ul class="step_point">
 			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
 			<li>    Mastère en Management financier et techniques de bourse</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
+			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
 			<li>	Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
 
 			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale</li>

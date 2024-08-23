@@ -124,7 +124,7 @@
                                     <li>Les outils de recouvrement</li>
                                     <li>Poids de facture et de clients</li>
                                     <li>Priorisation des relances</li>
-                                    <li>La relance téléphonique et écrite (Modèle de lettres de relance)</li>
+                                    <li>La relance téléphonique et écrite (Modèle juridiques de lettres de relance)</li>
                                     <li>Les pièges à éviter</li>
                                  </ul>
                 </div>

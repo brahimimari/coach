@@ -36,7 +36,7 @@
                                 <li class="nav-item"><a href="formation-audit.php" class="nav-link">Audit</a></li>
                                 <li class="nav-item"><a href="formation-strategie-oriente-client.php" class="nav-link">Staratégie</a></li>
                                 <li class="nav-item"><a href="formation-credit-Management.php" class="nav-link">Crédit management</a></li>
-                                <li class="nav-item"><a href="formation-gestion-des-ressources-humaines.php" class="nav-link">R.H.</a></li>
+                                <li class="nav-item"><a href="formation-gestion-des-ressources-humaines.php" class="nav-link">HR Management</a></li>
                                 <li class="nav-item"><a href="formation-coaching.php" class="nav-link">Coaching</a></li>
                                 <li class="nav-item"><a href="formation-commerial.php" class="nav-link">Commercial</a></li>
                             </ul> 

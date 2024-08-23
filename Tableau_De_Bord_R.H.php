@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.406 _ New H.R. Dashboard</h1>
+                        <h1>S.404 _ Pilotage RH &amp; Data Visualisation</h1>
                         
                     </div>
                 </div>              
@@ -91,62 +91,95 @@
 
  
      <div class="accordion" id="myAccordion">
-        <div class="accordion-item">
+        
+		
+		<div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">I- Pourquoi le tableau de bord R.H ?</button>									
+                <button type="button" class="accordion-button-no " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Pourquoi le tableau de bord R.H ?</button>									
+            </h2>
+          
+        </div>
+		
+		  <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+                <button type="button" class="accordion-button-no " data-bs-toggle="collapse" data-bs-target="#collapseOne1">2. Les principes de conception et de fonctionnement</button>									
             </h2>
           
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">II- Méthodologie de construction du tableau de bord R.H</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">3. Les instruments de tableau de bord R.H</button>
             </h2>
              <div id="collapseTwo" class="accordion-collapse collapse">
                 <div class="card-body">
-                    <ul class="step_point">
-                                    <li>Présentation Générale</li>
-                                    <li>Les principes de conception et de fonctionnement</li>
-                                    <li>Les instruments de tableau de bord R.H
-										<br /><br />
-										 <ul class="step_point">
-											<li>Les valeurs absolues et relatives.</li>
-											<li>Les clignotants	</li>
-											<li>Le choix des graphiques</li>
-											<li>Les flashs et commentaires</li>
+                   <ul class="step_point">
+											<li>Les valeurs en absolu et en relatif</li>
+											<li>Les nouvelles formes de graphiques (Plusieurs graphiques ultra - modernes à développer sur
+Excel - Confrontation Réalisé / Objectif, Structure de résultat, Piles, Baromètre, Graphiques
+juxtaposés, Grandes masses, ...)</li>
+											<li>Les clignotants &amp; Pictogrammes	</li>
+											<li>Les flashs</li>
+											<li>Techniques de rédaction des commentaires des T.B. RH</li>
 										 </ul>
-									</li>
-                                    <li>Les indicateurs R.H
-									<br /><br />
-										 <ul class="step_point">
-											<li>Méthode de recherche des indicateurs</li>
-											<li>Qualité des indicateurs	</li>
-											<li>Test des indicateurs</li>
- 										 </ul>
-									</li>
-							   </ul>
                 </div>
             </div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">III. Etapes du projet de mise en place du système des tableaux de bord R.H </button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">4. Les familles modernes des indicateurs RH </button>                     
+            </h2>
+            
+			 <div id="collapseThree" class="accordion-collapse collapse">
+                <div class="card-body">
+                   <ul class="step_point">
+											<li> Indicateurs démographiques</li>
+											<li> Indicateurs légaux</li>
+											<li> Indicateurs socio - économiques et Financiers RH</li>
+											<li> Indicateurs d&#39;attractivité de l&#39;entreprise</li>
+											<li> Indicateurs du climat social</li>
+											<li> Indicateurs d&#39;embauche, de recrutement et de départ</li>
+											<li> Indicateurs de promotion</li>
+											<li> Indicateurs de formation</li>
+											<li> Indicateurs de gestion de carrière</li>
+											<li> Indicateurs de rémunération</li>
+											<li> Indicateurs de management de compétences</li>
+											<li> Indicateurs de création de valeur</li>
+											<li> Indicateurs financiers de la fonction RH</li>
+											 
+										 </ul>
+                </div>
+            </div>
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">5. Étapes du projet de mise en place du Tableau de bord dynamique RH</button>                     
             </h2>
             
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">IV. Aspect pratique : Cas de votre fonction</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">6. Traitement des écarts RH (Batterie des questions à se poser pour une analyse efficiente)</button>                     
             </h2>
             
         </div>
 		
 		<div class="accordion-item">
-            <h2 class="accordion-header" id="">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="">V. Développement de nouvelles formes de graphique - Volet pratique</button>                     
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefivev">7. Aspect pratique </button>                     
             </h2>
-            
+             <div id="collapsefivev" class="accordion-collapse collapse">
+                <div class="card-body">
+                   <ul class="step_point">
+											<li>Développement de plus de Sept Graphiques orientés RH</li>
+											
+											<li>Conception de votre Tableau de bord dynamique RH sur place</li>
+										 </ul>
+                </div>
+            </div>
         </div>
+		 
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
@@ -154,12 +187,12 @@
 <div class="cadreformation">
 								<div>
 						<ul class="step_point">
-							<li>Valoriser l’utilité du tableau de bord R.H</li>
-							<li>  Maîtriser la méthodologie de collecte des besoins R.H</li>
-							<li>  Concevoir des maquettes de tableau de bord R.H</li>
-							<li>  Adapter la conception aux spécificités de son entreprise</li>
-							<li>  Adopter le principe de l’amélioration continue</li>
-							<li>  Savoir prendre des décisions pertinentes au bon moment</li>
+							<li>Valoriser l’utilité du Pilotage du capital humain</li>
+							<li>  Maîtriser la méthodologie de collecte des besoins RH</li>
+							<li>  Concevoir des maquettes de tableau de bord RH</li>
+							<li>  Communiquer via un Tableau de bord RH éloquent</li>
+							<li>  Savoir prendre des décisions pertinentes RH au bon moment</li>
+							<li>  Savoir exploiter et faire vivre le Tableau de bord RH</li>
 						 </ul>  
 
 								</div>
@@ -167,24 +200,23 @@
 	
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
-		 <ul class="step_point">
-			<li>     Finance pour Dirigeants non financiers   Mastère en Management financier et techniques de bourse</li>
+			<ul class="step_point">
+			<li>    Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
 			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>	Mastère en Coaching</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale d'énergie</li>
+			<li>	Mastère en Management financier et techniques de bourse</li>
+			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale</li>
+			<li>	Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
 			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
 			<li>	Consultant – Séminariste depuis l’an 2000</li>
 			<li>	Coach Professionnel Diplômé</li>
-			<li>	Expert – Financier auprès de l’ANPME</li>
-			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
-			<li>	Ex Intervenant en Mastère E-logistique de l’ESITH</li>
-			<li>	Ex Professeur d'Audit et de de Contrôle de gestion approfondi à l’ENCG - Casablanca & Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
+			<li>	Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
+			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
+			<li>	Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
+			<li>	Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
+			<li>	Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
 				
-		 </ul> 
- 
+		 </ul>  
 	<h3 class="h3formation">Investissement</h3>
 	  <ul class="step_point">
                                     <li>    7 500 MAD H.T. par participant. <br />

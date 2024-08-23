@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.203 _ KPI, KRI &amp; DATA Visualisation</h1>
+                        <h1>S.204 _ KPI, KRI &amp; DATA Visualisation</h1>
                         
                     </div>
                 </div>              
@@ -94,7 +94,7 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Pourquoi les KPI, KRI &amp; la Data Visualisation ? </button>									
+                <button type="button" class="accordion-button-no " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Pourquoi les KPI, KRI &amp; la Data Visualisation ? </button>									
             </h2>
             
         </div>
@@ -148,13 +148,13 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">4.Étapes du projet de mise en place du Trombino Managérial</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#">4.Étapes du projet de mise en place du Trombino Managérial</button>                     
             </h2>
             
         </div>
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#">5	.Processus d&#39;analyse des écarts et rédaction des plans d&#39;actions</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#">5	.Processus d&#39;analyse des écarts et rédaction des plans d&#39;actions</button>                     
             </h2>
             
         </div>
@@ -181,7 +181,7 @@
 		 <ul class="step_point">
 			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
 			<li>    Mastère en Management financier et techniques de bourse</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
+			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
 			<li>	Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
 
 			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale</li>

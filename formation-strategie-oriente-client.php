@@ -9,7 +9,7 @@
     <meta name="keywords" content="HTML,CSS,XML,JavaScript">
     <meta name="author" content="Ecology Theme">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formation Audit</title>
+    <title>Formation Stratégie</title>
      <!-- Goole Font -->
     <link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"> 
@@ -51,7 +51,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>Domaine : Audit</h1>
+                        <h1>Domaine : Stratégie</h1>
                         
                     </div>
                 </div>              
@@ -73,16 +73,16 @@
                 <div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Concevoir-Une-Strategie-Oriente-Clients.php">Stratégie commercaile en période de crise
+                            <h3><a href="strategie-commercaile-en-periode-de-crise.php">Stratégie commercaile en période de crise
 </a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="Concevoir-Une-Strategie-Oriente-Clients.php"><img src="images/strategie-dentreprise.png" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="strategie-commercaile-en-periode-de-crise.php"><img src="images/strategie-dentreprise.png" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.1301</a> 
+                              <a href="#" class="read_more-btn">F.501</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -94,7 +94,7 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="Concevoir-Une-Strategie-Oriente-Clients.php" class="cart_btn">Voir la formation</a>
+						 <a href="strategie-commercaile-en-periode-de-crise.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 

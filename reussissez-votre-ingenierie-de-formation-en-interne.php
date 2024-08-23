@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.401 _ Réussissez votre Ingénierie de formation en Interne</h1>
+                        <h1>F.401 _ Réussissez votre Ingénierie de formation en Interne</h1>
                         
                     </div>
                 </div>              
@@ -90,13 +90,19 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 1.Introduction </button>									
+                <button type="button" class="accordion-button-no " data-bs-toggle="collapse" data-bs-target="#collapseOneOne"> 1.Gestion préalable du volet administratif GIAC X &amp; CSF </button>									
+            </h2>
+           
+        </div>
+
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 2.Démystification de l’Ingénierie de formation (IFO) </button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
 					<ul class="step_point">
-						<li>Démystification de l’Ingénierie de formation _ IFO</li>
-						<li>Principaux objectifs de l’IFO</li>
+ 						<li>Principaux objectifs de l’IFO</li>
 						<li>Acteurs de l’IFO</li>
 						<li>Dates à retenir et Contraintes temporaires</li>
 					</ul> 
@@ -105,13 +111,13 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Lancement du projet – IFO</button>
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">3. Lancement du projet – IFO</button>
             </h2>
            
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3.Collecte des besoins – Méthodologie pratique</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">4.Collecte des besoins – Méthodologie pratique</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
@@ -128,17 +134,23 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4.Rédaction de l’ingéneireie de formation</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">5.Techniques de Rédaction de l’ingénierie de formation</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
 								<ul class="step_point">
                                     <li>Sommaire préconisé par le SECFP</li>
                                     <li>Structure de l’IFO</li>
-                                    <li>Plan de formation</li>
-                                 </ul>
+                                  </ul>
                 </div>
             </div>
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">6.Elaboration du Plan de formation</button>                     
+            </h2>
+            
         </div>
     </div>
 	
@@ -147,6 +159,7 @@
 <div class="cadreformation">
 								<div>
 								<ul class="step_point">
+                               <li>  Maitriser la démarche administrative auprès du GIAC et du CSF</li>
                                <li>   Appréhenser le role de l’Ingénierie de formation dans les développements stratégique et R.H. de l’entreprise</li>
 								<li> Assimiler la démarche pratique et normalisée de l’Ingénierie de formation</li>
 								<li> Identifier les differentes sources des besoins en formation</li>
@@ -162,22 +175,26 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>     Finance pour Dirigeants non financiers   Mastère en Management financier et techniques de bourse</li>
+			<li>    Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
 			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>	Mastère en Coaching</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale d'énergie</li>
+			<li>	Mastère en Management financier et techniques de bourse</li>
+			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale</li>
+			<li>	Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
 			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
 			<li>	Consultant – Séminariste depuis l’an 2000</li>
 			<li>	Coach Professionnel Diplômé</li>
-			<li>	Expert – Financier auprès de l’ANPME</li>
-			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
-			<li>	Ex Intervenant en Mastère E-logistique de l’ESITH</li>
-			<li>	Ex Professeur d'Audit et de de Contrôle de gestion approfondi à l’ENCG - Casablanca & Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
+			<li>	Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
+ 			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
+			<li>	Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
+			<li>	Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
+			<li>	Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
 				
 		 </ul> 
+		 
+		 <p><b>N.B. : M. Mohammed NACIR</b> compte dans son actif plus de <u><b>150 Ingénieries de formation</b></u>, à titre d’exemple
+Groupe ADDOHA, PETROMIN, MOBILIA, DELASSUS, MENARA PREFA, C.T.M., FROIDEL, ANAM, COATS,
+COMALAM, ETAF, MENARA HOLDING, RODA MAROC, SANASH SECURITE, TUBE &amp; PROFIL, …</p>
  
 	<h3 class="h3formation">Investissement</h3>
 	  <ul class="step_point">
