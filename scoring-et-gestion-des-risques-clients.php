@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.601 _ Scoring et Gestion des risques clients</h1>
+                        <h1>F.601 _ Scoring et Gestion des risques clients</h1>
                         
                     </div>
                 </div>              

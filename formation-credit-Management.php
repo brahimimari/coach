@@ -81,7 +81,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="scoring-et-gestion-des-risques-clients.php"><img src="images/gestion-risque-client.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.601</a> 
+                              <a href="#" class="read_more-btn">F.601</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -113,7 +113,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="formation-recouvrement-casablanca.php"><img src="images/recouvrement-casablanca.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.602</a> 
+                              <a href="#" class="read_more-btn">F.602</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
