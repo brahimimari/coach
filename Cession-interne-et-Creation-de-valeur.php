@@ -141,7 +141,7 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4.Cas pratique complet _ Entreprise industrielle</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4.Cas pratique complet _ Entreprise industrielle</button>                     
             </h2>
            
         </div>

@@ -30,14 +30,17 @@
                         </div>
                         <div class="archives-items">
                             <ul class="list-unstyled">
-								<li class=""><a href="#" class="">Finance</a></li> 
-                                <li class=""><a href="#" class="">Management Control</a></li> 
-                                <li class=""><a href="#" class="">Audit</a></li>
-                                <li class=""><a href="#" class="">Staratégie</a></li>
-                                <li class=""><a href="#" class="">Crédit management</a></li>
-                                <li class=""><a href="#" class="">R.H.</a></li>
-                                <li class=""><a href="#" class="">Coaching</a></li>
-                                <li class=""><a href="#" class="">Commercial</a></li>
+							
+								<li><a href="formation-finance.php">Finance</a></li> 
+                                <li><a href="formation-management-control.php">Management Control</a></li> 
+                                <li><a href="formation-audit.php" >Audit</a></li>
+                                <li><a href="formation-strategie-oriente-client.php">Staratégie</a></li>
+                                <li><a href="formation-credit-Management.php" >Crédit management</a></li>
+                                <li><a href="formation-gestion-des-ressources-humaines.php">HR Management</a></li>
+                                <li><a href="formation-coaching.php">Coaching</a></li>
+                                <li><a href="formation-commerial.php">Commercial</a></li>
+								
+							 
                             </ul>
                         </div>
                     </div>  
