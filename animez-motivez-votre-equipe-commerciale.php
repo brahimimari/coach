@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>F.804 _Nouvelles approches de prospection & de vente</h1>
+                        <h1>F.806 _Animez et Motivez votre équipe commerciale</h1>
                         
                     </div>
                 </div>              
@@ -90,37 +90,34 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">Partie 1 : Les techniques de la prospection réussie</button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Appréhender votre profil de manager commercial</button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
 					 
 							<ul class="step_point">
 								
-							<li>	Mise dans le contexte</li>
-							<li>	Définir la population que l’on souhaite prospecter (les clients potentiels)</li>
-							<li>	La carte stratégique actuelle & future</li>
-							<li>	Trouver les coordonnées de la population à prospecter</li>
-							<li>	Contacter sa liste de prospects</li>
-							<li>	Préparer son rendez-vous de prospection</li>
-							<li>	Faire un rendez-vous de prospection</li>
-							<li>	Gérer l’après rendez-vous</li>
-	                       
+							<li>Diagnostiquer ses compétences	</li>
+							<li>Identifier son style de management : comment suis-je perçu ? _ Test : Quel type de Manger ?	</li>
+							<li>Éviter les erreurs de management	</li>
+							<li>Test : Savez-vous écouter ?	</li>
+ 	                       
 							</ul> 
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo"> Partie 2 : L’attitude commerciale</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo"> 2. Adapter son management au profil des commerciaux</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-						<li>Mise dans le contexte</li>
-						<li>L’attitude commerciale positive _ Test N°1 : Aptitude commerciale</li>
-						<li>Le profil du Top vendeur</li>
+						<li>Comment fixer les objectifs commerciaux</li>
+						<li>Identifier le profil de chaque vendeur</li>
+						<li>Adapter son style de management à chacun</li>
+						<li>Analyser son équipe commerciale avec le TAM</li>
 					</ul>
 					</p>
                 </div>
@@ -128,30 +125,16 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Partie 3 : Les techniques de la vente réussie</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. Motiver individuellement ses commerciaux au quotidien</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-						<li>Le volet méthodologique _ Test N°2 : Qualité d’écoute</li>
-						<li>Le volet comportemental</li>
-						<li>
-						Comment conduire un entretien commercial difficile
-						<br />
-						<br />
-						
-						<ul class="step_point">
-							<li>Analyser la situation pour définir les besoins</li>
-							<li>Concevoir sa stratégie de questionnement</li>
-							<li>Décliner votre argumentaire de vente en avantages et bénéfices  Test N°3 : Confiance en soi</li>
-							<li>Traiter les objections</li>
-							<li>Prenez la décision efficacement</li>
-						</ul>
-						
-						</li>
-						<li>Traitez les Objections</li>
-						<li>Prenez la Décision Efficacement</li>
+						<li>Comment motiver ? – Test : Degré de motivation</li>
+						<li>Système de rémunération variable</li>
+						<li>Mettre en place des incentives motivants</li>
+						<li>Garder le contact et l&#39;impact malgré la distance</li>
 					</ul>
 					</p>
                 </div>
@@ -160,18 +143,52 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Partie 4 : Le commercial – Modèle</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4. Réunions commerciales : Sources de motivation</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
 								<ul class="step_point">
-                                    <li>Le Savoir - X du commercial</li>
-                                    <li>La règle des 4 C</li>
-                                    <li>L’Effet de HALO, Le CAB, Le CABP, le CAP - SONCAS</li>
+                                    <li>Rendre chaque réunion utile et motivante</li>
+                                    <li>Animer des réunions à distance dynamisantes</li>
+                                   
                                  </ul>
                 </div>
             </div>
         </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">5. Préserver la motivation des vendeurs dans toutes les situations</button>                     
+            </h2>
+            <div id="collapsefive" class="accordion-collapse collapse">
+                <div class="card-body">
+								<ul class="step_point">
+                                    <li>Faire face aux résultats insuffisants</li>
+                                    <li>Affirmer son autorité sans &quot;casser&quot; le relationnel</li>
+                                    <li>Résoudre les conflits</li>
+                                   
+                                 </ul>
+                </div>
+            </div>
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">6. Contrôler et suivre l’activité commerciale</button>                     
+            </h2>
+            <div id="collapsesix" class="accordion-collapse collapse">
+                <div class="card-body">
+								<ul class="step_point">
+                                    <li>Pourquoi le Trombino Commercial</li>
+                                    <li>Structure du Trombino Commercial</li>
+                                    <li>Modèle de Trombino commercial</li>
+                                   
+                                 </ul>
+                </div>
+            </div>
+        </div>
+		
+		
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
@@ -180,11 +197,10 @@
 								<div>
 								<ul class="step_point">
                                   
-									<li>Développer le niveau de confiance en soi des commerciaux</li>
-									<li>Acquérir les bonnes pratiques d’une prospection organisée</li>
-									<li>Développer les capacités d’écoute du commercial pour mieux cerner le besoin - client</li>
-									<li>Développer les compétences et outils nécessaires pour réussir la vente dans un contexte difficile</li>
-									<li>Mieux conclure la vente</li>
+									<li>Développer la motivation et la compétence de chacun de ses commerciaux pour booster ses ventes</li>
+									<li>Créer et renforcer l&#39;esprit d&#39;équipe</li>
+									<li>Concevoir et animer des réunions motivantes</li>
+									<li>Savoir assurer le bon suivi des performances de son équipe</li>
 								   
 								 </ul>  
 

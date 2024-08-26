@@ -73,15 +73,15 @@
                 <div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Pilotez-votre-fonction-commerciale.php">Nouvelles tendances du Pilotage commercial</a></h3>
+                            <h3><a href="nouvelles-tendances-du-pilotage-commercial.php">Nouvelles tendances du Pilotage commercial</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="Pilotez-votre-fonction-commerciale.php"><img src="images/pilotage-commercial.png" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="nouvelles-tendances-du-pilotage-commercial.php"><img src="images/pilotage-commercial.png" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.801</a> 
+                              <a href="#" class="read_more-btn">F.801</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -93,7 +93,7 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="Pilotez-votre-fonction-commerciale.php" class="cart_btn">Voir la formation</a>
+						 <a href="nouvelles-tendances-du-pilotage-commercial.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 
@@ -192,6 +192,68 @@
 
                              </ul>
 						 <a href="Nouvelles-approches-de-prospection-de-vente.php" class="cart_btn">Voir la formation</a>
+                         </div>
+                    </div>
+                </div> 
+           
+		   </div>
+
+		   <div class="col-12 col-sm-6 col-md-6 col-lg-4">
+                <div class="single-courses">
+                     <div class="courses_info_wrapper">
+                        <div class="courses_title">
+                            <h3><a href="animez-motivez-votre-equipe-commerciale.php">Animez et Motivez votre équipe commerciale</a></h3>
+                          <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
+                        </div>
+                        
+                    </div>
+					<div class="courses_banner_wrapper">
+                        <div class="courses_banner"><a href="animez-motivez-votre-equipe-commerciale.php"><img src="images/animez-motivez.png" alt="" class="img-fluid"></a></div>
+                        <div class="purchase_price">
+                              <a href="#" class="read_more-btn">F.806</a> 
+                        </div>
+                    </div>
+                    <div class="courses_info_wrapper">
+                        <div class="courses_title">
+ 							<div class="teachers_name">Animateur - <a href="#" title="">M. Mohammed NACIR</a></div>
+                         </div>
+                        <div class="courses_info">
+                            <ul class="list-unstyled">
+                                <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
+
+                             </ul>
+						 <a href="animez-motivez-votre-equipe-commerciale.php" class="cart_btn">Voir la formation</a>
+                         </div>
+                    </div>
+                </div> 
+           
+		   </div>
+		   
+		     <div class="col-12 col-sm-6 col-md-6 col-lg-4">
+                <div class="single-courses">
+                     <div class="courses_info_wrapper">
+                        <div class="courses_title">
+                            <h3><a href="techniques-de-prospection-et-de-vente-international.php">Animez et Motivez votre équipe commerciale</a></h3>
+                          <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
+                        </div>
+                        
+                    </div>
+					<div class="courses_banner_wrapper">
+                        <div class="courses_banner"><a href="techniques-de-prospection-et-de-vente-international.php"><img src="images/techniques-de-prospection-et-de-vente-international.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="purchase_price">
+                              <a href="#" class="read_more-btn">F.807</a> 
+                        </div>
+                    </div>
+                    <div class="courses_info_wrapper">
+                        <div class="courses_title">
+ 							<div class="teachers_name">Animateur - <a href="#" title="">M. Mohammed NACIR</a></div>
+                         </div>
+                        <div class="courses_info">
+                            <ul class="list-unstyled">
+                                <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
+
+                             </ul>
+						 <a href="techniques-de-prospection-et-de-vente-international.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 

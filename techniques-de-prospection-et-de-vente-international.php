@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>F.801 _ Nouvelles tendances du Pilotage commercial</h1>
+                        <h1>F.807 _ Techniques de prospection et de vente à l&#39;international</h1>
                         
                     </div>
                 </div>              
@@ -80,91 +80,87 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-										 <p class="textecadre">Cette formation s'adresse à tous les cadres et dirigeants , tels que les Directeurs généraux, Directeurs commerciaux et Responsables commerciaux.</p>
+					 					 <p class="textecadre">Cette formation s'adresse à tous les cadres et dirigeants , tels que les Directeurs généraux, Directeurs commerciaux et Responsables commerciaux.</p>
 								</div>
 							</div> 
 							
 					<h3 class="h3formation">Le programme de la formation </h3>
 
- 
+
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 1.Mettez votre activité commerciale sous contrôle </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">Partie 1 : Techniques de prospection à l’international</button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
-					<ul class="step_point">
-						<li>Vendre le projet à ses commerciaux</li>
-						<li>Le TB Commercial est un outil de progrès</li>
- 					</ul> 
+					 
+							<ul class="step_point">
+								
+							<li>Séquence 1 : les fondamentaux de la prospection
+								<br />	
+								<br />	
+								<ul class="step_point">
+									<li>Les pré requis : Stratégie d’export ?</li>
+									<li>L’objectif général de la prospection à l’international</li>
+									<li>Les différentes formes de prospection</li>
+									<li>Les barrières à l’entrée « Cas du marché anglais »</li>
+								</ul>
+							</li>
+							<li>Séquence 2 : la préparation de la prospection
+								<br />	
+								<br />	
+								<ul class="step_point">
+									<li>Carte stratégique : Le référentiel de Prospection</li>
+									<li>Cibler &amp; qualifier les prospects</li>
+									<li>Bâtir le fichier de prospection</li>
+									<li>Construire les stratégies d’argumentation</li>
+								</ul>
+							</li>
+							<li>Séquence 3 : la réalisation de la prospection	 
+  	                       	<br />	
+  	                       	<br />	
+								<ul class="step_point">
+									<li>Les outils traditionnels : E mailing, téléphone</li>
+									<li>Les outils digitaux</li>
+									<li>Panorama des outils : inbound et outbound, marketing automation</li>
+									<li>Prospection Terrain</li>
+								</ul>
+							</li>
+							</ul> 
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Instrumentalisez votre Tableau de bord Commercial</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo"> Partie 2 : Techniques de vente</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-						<li>Tableaux chiffrés des indicateurs</li>
-						<li>Nature & Evolution des performances</li>
-						<li>Représentations graphiques et visuelles</li>
-						<li>Comptes rendus succincts</li>
-						<li>Flashs</li>
+						<li>Dimension culturelle de la vente à l’international	</li>
+						
+						<li>Les 8 techniques de vente à pratiquer
+						<br />	
+						<br />	
+								<ul class="step_point">
+									<li>La méthode de vente SIMAC</li>
+									<li>La méthode de vente SPIN SELLING</li>
+									<li>La méthode de vente CRAC</li>
+									<li>La méthode de vente SPANCO</li>
+									<li>La méthode de vente CROC</li>
+									<li>La méthode de vente Customer Centric Selling</li>
+									<li>La méthode de vente complexe : EIDDM</li>
+									<li>La méthode de vente BEBEDC</li>
+								</ul>
 					</ul>
 					</p>
                 </div>
             </div>
         </div>
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3.Identifiez les indicateurs pertinents </button>                     
-            </h2>
-            <div id="collapseThree" class="accordion-collapse collapse">
-                <div class="card-body">
-                    <ul class="step_point">
-                                    <li>Pipeline de vente</li>
-                                    <li>Sources d’indicateurs</li>
-                                    <li>Familles des indicateurs commerciaux (Stratégie commerciale, Marketing, Force de vente, Après – vente, Recouvrement, Analyse de la force de vente, RH commercial)</li>
-                                    <li>Cas pratique</li>
-                                 </ul>
-                </div>
-            </div>
-        </div>
+       	
 		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4.Analysez les écarts et établissez vos plans d’actions</button>                     
-            </h2>
-            <div id="collapsefoor" class="accordion-collapse collapse">
-                <div class="card-body">
-								<ul class="step_point">
-                                    <li>Les pistes d’analyse</li>
-                                    <li>Les pièges à éviter</li>
-                                 </ul>
-                </div>
-            </div>
-        </div>
-		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">5.Techniques de Challenge pour commerciaux</button>                     
-            </h2>
-            <div id="collapsefive" class="accordion-collapse collapse">
-                <div class="card-body">
-								<ul class="step_point">
-                                    <li>Objectifs du challenge</li>
-                                    <li>Kick off meeting - Challenge</li>
-                                    <li>Durée du challenge</li>
-                                    <li>Univers du Challenge</li>
-                                    <li>Prix du challenge</li>
-                                 </ul>
-                </div>
-            </div>
-        </div>
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
@@ -172,12 +168,11 @@
 <div class="cadreformation">
 								<div>
 								<ul class="step_point">
-                                <li> Passer votre fonction commerciale à système de contrôle par alerte</li>
-							    <li> Disposer des outils de suivi et de contrôle commercial</li>
-							    <li> Mieux impliquer vos commerciaux dans l'analyse de l'existant et dans la recherche des solutions</li>
-
-							    <li> Créer chez vos commerciaux le sens de challenge et de défi</li>
-
+                                  
+									<li>Développer ses compétences et ses approches de prospection à l’international</li>
+									<li>Appréhender les outils du marketing digital dans la prospection à l’international</li>
+									<li>Apprendre de nouvelles stratégies de vente à l’international et les mettre en pratique</li>
+								   
 								 </ul>  
 
 								</div>
@@ -185,22 +180,19 @@
 	
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
-		 <ul class="step_point">
-			<li>     Finance pour Dirigeants non financiers   Mastère en Management financier et techniques de bourse</li>
+		<ul class="step_point">
+			<li>     Mastère en Coaching de L’EHTP</li>
 			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>	Mastère en Coaching</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale d'énergie</li>
-			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
+			<li>	Mastère en Management financier et techniques de bourse</li>
+			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale</li>
+			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
 			<li>	Consultant – Séminariste depuis l’an 2000</li>
-			<li>	Coach Professionnel Diplômé</li>
-			<li>	Expert – Financier auprès de l’ANPME</li>
-			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
-			<li>	Ex Intervenant en Mastère E-logistique de l’ESITH</li>
-			<li>	Ex Professeur d'Audit et de de Contrôle de gestion approfondi à l’ENCG - Casablanca & Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
-				
+			<li>	Coach Professionnel diplômé de l’EHTP</li>
+			<li>	Professeur de Finance et Contrôle de gestion aux Mastères &amp; MBA de l’Université Internationale de Casablanca</li>
+			<li>	Ex Professeur de Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
+			<li>	Ex Professeur d&#39;Audit et de Contrôle de gestion à l’ENCG - Casablanca &amp; Settat</li>
+			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l&#39;Ecole Française des Affaires</li>
 		 </ul> 
  
 	<h3 class="h3formation">Investissement</h3>

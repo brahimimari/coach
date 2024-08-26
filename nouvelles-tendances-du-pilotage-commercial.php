@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>F.804 _Nouvelles approches de prospection & de vente</h1>
+                        <h1>F.801 _ Nouvelles tendances du Pilotage commercial</h1>
                         
                     </div>
                 </div>              
@@ -80,47 +80,40 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 					 <p class="textecadre">Cette formation s'adresse à tous les cadres et dirigeants , tels que les Directeurs généraux, Directeurs commerciaux et Responsables commerciaux.</p>
+										 <p class="textecadre">Cette formation s'adresse à tous les cadres et dirigeants , tels que les Directeurs généraux, Directeurs commerciaux et Responsables commerciaux.</p>
 								</div>
 							</div> 
 							
 					<h3 class="h3formation">Le programme de la formation </h3>
 
-
+ 
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">Partie 1 : Les techniques de la prospection réussie</button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 1.Mettez votre activité commerciale sous contrôle </button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
-					 
-							<ul class="step_point">
-								
-							<li>	Mise dans le contexte</li>
-							<li>	Définir la population que l’on souhaite prospecter (les clients potentiels)</li>
-							<li>	La carte stratégique actuelle & future</li>
-							<li>	Trouver les coordonnées de la population à prospecter</li>
-							<li>	Contacter sa liste de prospects</li>
-							<li>	Préparer son rendez-vous de prospection</li>
-							<li>	Faire un rendez-vous de prospection</li>
-							<li>	Gérer l’après rendez-vous</li>
-	                       
-							</ul> 
+					<ul class="step_point">
+						<li>Vendre le projet à ses commerciaux</li>
+						<li>Le TB Commercial est un outil de progrès</li>
+ 					</ul> 
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo"> Partie 2 : L’attitude commerciale</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Instrumentalisez votre Tableau de bord Commercial</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-						<li>Mise dans le contexte</li>
-						<li>L’attitude commerciale positive _ Test N°1 : Aptitude commerciale</li>
-						<li>Le profil du Top vendeur</li>
+						<li>Tableaux chiffrés des indicateurs</li>
+						<li>Nature & Evolution des performances</li>
+						<li>Représentations graphiques et visuelles</li>
+						<li>Comptes rendus succincts</li>
+						<li>Flashs</li>
 					</ul>
 					</p>
                 </div>
@@ -128,46 +121,48 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Partie 3 : Les techniques de la vente réussie</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3.Identifiez les indicateurs pertinents </button>                     
             </h2>
-            <div id="collapseThree" class="accordion-collapse collapse ">
+            <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
-                    <p>
-					<ul class="step_point">
-						<li>Le volet méthodologique _ Test N°2 : Qualité d’écoute</li>
-						<li>Le volet comportemental</li>
-						<li>
-						Comment conduire un entretien commercial difficile
-						<br />
-						<br />
-						
-						<ul class="step_point">
-							<li>Analyser la situation pour définir les besoins</li>
-							<li>Concevoir sa stratégie de questionnement</li>
-							<li>Décliner votre argumentaire de vente en avantages et bénéfices  Test N°3 : Confiance en soi</li>
-							<li>Traiter les objections</li>
-							<li>Prenez la décision efficacement</li>
-						</ul>
-						
-						</li>
-						<li>Traitez les Objections</li>
-						<li>Prenez la Décision Efficacement</li>
-					</ul>
-					</p>
+                    <ul class="step_point">
+                                    <li>Pipeline de vente</li>
+                                    <li>Sources d’indicateurs</li>
+                                    <li>Familles des indicateurs commerciaux (Stratégie commerciale, Marketing, Force de vente, Après – vente, Recouvrement, Analyse de la force de vente, RH commercial)</li>
+                                    <li>Cas pratique sur PC / Développement graphique orienté commercial : Confrontation
+Réalisé / Objectif, Structure de résultat, Piles, Baromètre, Graphiques juxtaposés, Grandes
+masses, ...)</li>
+                                 </ul>
                 </div>
             </div>
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Partie 4 : Le commercial – Modèle</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4.Analysez les écarts et établissez vos plans d’actions</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
 								<ul class="step_point">
-                                    <li>Le Savoir - X du commercial</li>
-                                    <li>La règle des 4 C</li>
-                                    <li>L’Effet de HALO, Le CAB, Le CABP, le CAP - SONCAS</li>
+                                    <li>Les pistes d’analyse</li>
+                                    <li>Les pièges à éviter</li>
+                                 </ul>
+                </div>
+            </div>
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">5.Techniques de Challenge pour commerciaux</button>                     
+            </h2>
+            <div id="collapsefive" class="accordion-collapse collapse">
+                <div class="card-body">
+								<ul class="step_point">
+                                    <li>Objectifs du challenge</li>
+                                    <li>Kick off meeting - Challenge</li>
+                                    <li>Durée du challenge</li>
+                                    <li>Univers du Challenge</li>
+                                    <li>Prix du challenge</li>
                                  </ul>
                 </div>
             </div>
@@ -179,13 +174,12 @@
 <div class="cadreformation">
 								<div>
 								<ul class="step_point">
-                                  
-									<li>Développer le niveau de confiance en soi des commerciaux</li>
-									<li>Acquérir les bonnes pratiques d’une prospection organisée</li>
-									<li>Développer les capacités d’écoute du commercial pour mieux cerner le besoin - client</li>
-									<li>Développer les compétences et outils nécessaires pour réussir la vente dans un contexte difficile</li>
-									<li>Mieux conclure la vente</li>
-								   
+                                <li> Passer votre fonction commerciale à système de contrôle par alerte</li>
+							    <li> Disposer des outils de suivi et de contrôle commercial</li>
+							    <li> Mieux impliquer vos commerciaux dans l'analyse de l'existant et dans la recherche des solutions</li>
+
+							    <li> Créer chez vos commerciaux le sens de challenge et de défi</li>
+
 								 </ul>  
 
 								</div>
@@ -193,7 +187,7 @@
 	
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
-		<ul class="step_point">
+		 <ul class="step_point">
 			<li>     Mastère en Coaching de L’EHTP</li>
 			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
 			<li>	Mastère en Management financier et techniques de bourse</li>
@@ -206,6 +200,7 @@
 			<li>	Ex Professeur de Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
 			<li>	Ex Professeur d&#39;Audit et de Contrôle de gestion à l’ENCG - Casablanca &amp; Settat</li>
 			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l&#39;Ecole Française des Affaires</li>
+				
 		 </ul> 
  
 	<h3 class="h3formation">Investissement</h3>
