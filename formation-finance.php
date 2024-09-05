@@ -80,7 +80,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="finance-pour-dirigeants-non-financiers.php"><img src="images/1689594257015.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.101</a> 
+                              <a href="#" class="read_more-btn">F.101</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -104,7 +104,7 @@
                 <div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Negociation-Bancaire-Et-Gestion-De-Tresorerie.php">Négociation bancaire et gestion de trésorerie</a></h3>
+                            <h3><a href="Negociation-Bancaire-Et-Gestion-De-Tresorerie.php">Cash Management &amp; Négociation bancaire</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
@@ -112,7 +112,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="Negociation-Bancaire-Et-Gestion-De-Tresorerie.php"><img src="images/negociation-bancaire.png" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.102</a> 
+                              <a href="#" class="read_more-btn">F.102</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -145,7 +145,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="Approche-Pratique-Du-Diagnostic-Financier.php"><img src="images/diagnostic-financier.png" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.103</a> 
+                              <a href="#" class="read_more-btn">F.103</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -168,15 +168,15 @@
 				<div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Ameliorez-la-performance-de-votre-BU-Finance.php"> Financier 3.0 : Améliorez la performance de votre B.U.</a></h3>
+                            <h3><a href="finance3-0.php"> Financier 3.0 : The Best Financial Practices</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="Ameliorez-la-performance-de-votre-BU-Finance.php"><img src="images/Ameliorez-la-performance-de-votre.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="finance3-0.php"><img src="images/Ameliorez-la-performance-de-votre.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.104</a> 
+                              <a href="#" class="read_more-btn">F.104</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -188,7 +188,7 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="Ameliorez-la-performance-de-votre-BU-Finance.php" class="cart_btn">Voir la formation</a>
+						 <a href="finance3-0.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 
@@ -209,7 +209,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="cartographie-des-risques-financiers.php"><img src="images/Cartographie-des-risques-financiers.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.105</a> 
+                              <a href="#" class="read_more-btn">F.105</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -234,15 +234,15 @@
 				<div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="La_Gestion_Des_Risques_Financiers_De_La_Vente.php">La gestion des risques financiers de la vente</a></h3>
+                            <h3><a href="la-gestion-des-risques-financiers-de-la-vente.php">La gestion des risques financiers de la vente</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="Risque_De_Change_Salle_De_Marche.php"><img src="images/risque-financier.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="la-gestion-des-risques-financiers-de-la-vente.php"><img src="images/risque-financier.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.106</a> 
+                              <a href="#" class="read_more-btn">F.106</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -254,7 +254,7 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="La_Gestion_Des_Risques_Financiers_De_La_Vente.php" class="cart_btn">Voir la formation</a>
+						 <a href="la-gestion-des-risques-financiers-de-la-vente.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 
@@ -268,15 +268,15 @@
 				<div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Risque_De_Change_Salle_De_Marche.php">Hedging & Salle des marchés</a></h3>
+                            <h3><a href="hedging-salle-des-marches.php">Hedging & Salle des marchés</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="Risque_De_Change_Salle_De_Marche.php"><img src="images/heading-et-salle-de-marcher.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="hedging-salle-des-marches.php"><img src="images/heading-et-salle-de-marcher.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.107</a> 
+                              <a href="#" class="read_more-btn">F.107</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -288,7 +288,7 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="Risque_De_Change_Salle_De_Marche.php" class="cart_btn">Voir la formation</a>
+						 <a href="hedging-salle-des-marches.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 
@@ -301,15 +301,15 @@
 				<div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Les-secrets-de-montage-du-Business-Plan.php">Les Secrets de montage du Business Plan _ Univers incertain</a></h3>
+                            <h3><a href="le-montage-du-business-plan-en-univers.php">Le montage du Business Plan en univers</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="Les-secrets-de-montage-du-Business-Plan.php"><img src="images/Business-Plan.png" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="le-montage-du-business-plan-en-univers.php"><img src="images/Business-Plan.png" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.108</a> 
+                              <a href="#" class="read_more-btn">F.108</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
@@ -321,7 +321,39 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="Les-secrets-de-montage-du-Business-Plan.php" class="cart_btn">Voir la formation</a>
+						 <a href="le-montage-du-business-plan-en-univers.php" class="cart_btn">Voir la formation</a>
+                         </div>
+                    </div>
+                </div> 
+           
+		   </div><!-- Ends: . -->
+
+<div class="col-12 col-sm-6 col-md-6 col-lg-4">
+
+				<div class="single-courses">
+                     <div class="courses_info_wrapper">
+                        <div class="courses_title">
+                            <h3><a href="les-modes-de-reglements-a-l-international.php">Les Modes de règlements à l-international</a></h3>
+                          <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
+                        </div>
+                        
+                    </div>
+					<div class="courses_banner_wrapper">
+                        <div class="courses_banner"><a href="les-modes-de-reglements-a-l-international.php"><img src="images/les-modes-de-reglements-a-l-international.jpg" alt="" class="img-fluid"></a></div>
+                        <div class="purchase_price">
+                              <a href="#" class="read_more-btn">F.109</a> 
+                        </div>
+                    </div>
+                    <div class="courses_info_wrapper">
+                        <div class="courses_title">
+ 							<div class="teachers_name">Animateur - <a href="#" title="">M. Mohammed NACIR</a></div>
+                         </div>
+                        <div class="courses_info">
+                            <ul class="list-unstyled">
+                                <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
+
+                             </ul>
+						 <a href="les-modes-de-reglements-a-l-international.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 
@@ -334,13 +366,13 @@
 				<div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
-                            <h3><a href="Le-Reporting-Financier-Version-anglo-saxonne.php">Le Reporting Financier _ Version anglo saxonne</a></h3>
+                            <h3><a href="reporting-financier-data-visualisation.php">Reporting Financier &amp; Data Visualisation</a></h3>
                           <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
                         </div>
                         
                     </div>
 					<div class="courses_banner_wrapper">
-                        <div class="courses_banner"><a href="Le-Reporting-Financier-Version-anglo-saxonne.php"><img src="images/reporting-financier.webp" alt="" class="img-fluid"></a></div>
+                        <div class="courses_banner"><a href="reporting-financier-data-visualisation.php"><img src="images/reporting-financier.webp" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
                               <a href="#" class="read_more-btn">S.111</a> 
                         </div>
@@ -354,7 +386,7 @@
                                 <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
 
                              </ul>
-						 <a href="Le-Reporting-Financier-Version-anglo-saxonne.php" class="cart_btn">Voir la formation</a>
+						 <a href="reporting-financier-data-visualisation.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 

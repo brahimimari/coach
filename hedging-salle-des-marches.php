@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>F.105 _ Cartographie des risques financiers</h1>
+                        <h1>F.107 _ Hedging & Salle des marchés</h1>
                         
                     </div>
                 </div>              
@@ -80,7 +80,7 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables et Contrôleurs de gestion</p>
+					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion et Responsables de trésorerie</p>
 
 								</div>
 							</div> 
@@ -91,28 +91,19 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Qu’est-ce que c’est et pourquoi ?</button>									
+                <button type="button" class="accordion-button-no " data-bs-toggle="collapse" data-bs-target="#collapseOne">Partie 1 : La démystification du risque de change</button>									
             </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show">
-                <div class="card-body">
-					<ul class="step_point">
-						<li>Quelques Définitions utiles</li>
-						<li>Utilité de la cartographie des risques financiers</li>
-						<li>Pré – requis d’une cartographie des risques financiers</li>
-					</ul> 
-				</div>
-			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Evaluation des compétences de l’équipe finance</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Partie 2 : Les instruments internes de couverture (Couverture à 0 MAD)</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-						<li>Fiche de poste _ Risk Manager</li>
-						<li>Grille de compétences de l’équipe finance</li>
+                                    <li>Le termaillage (leads and lags)</li>
+                                    <li>Le Netting</li>
 					</ul>
 					</p>
                 </div>
@@ -120,58 +111,69 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. Identification des risques financiers</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Partie 3 : Les instruments externes de couverture</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
                     <ul class="step_point">
-						<li>Les sources des risques</li>
-						<li>Tableaux de bord & Reportings</li>
-						<li>Feuille de couverture et FRAP</li>
-					</ul>
+						<li>Le change au comptant</li>
+						<li>Le change à terme</li>
+						<li>L'option de change</li>
+ 					</ul>
                 </div>
             </div>
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4. Evaluation des risques financiers</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Partie 4 : Les stratégies optionnelles</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
-								<ul class="step_point">
-                                    <li>La Probabilité de survenance du risque</li>
-                                    <li>L’Impact du risque</li>
-                                    <li>Le Niveau de maîtrise du risque</li>
-                                    <li>L’échelle de notation des risques</li>
-                                    <li>La Notation (scoring) du risque</li>
-                                    <li>La cartographie des risques</li>
-                                 </ul>
+					<ul class="step_point">
+						<li>Modalités d’utilisation des options</li>
+						<li>Modalités de participative</li>
+						<li>L’option tunnel</li>
+						<li>L’option spread</li>
+						<li>L’option à moyenne</li>
+					 </ul>
                 </div>
             </div>
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">  5. Gestion des risques financiers</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">  Partie 5 : Les options "conditionnelles</button>                     
             </h2>
             <div id="collapsefive" class="accordion-collapse collapse">
                 <div class="card-body">
 					<ul class="step_point">
-						<li>Stratégie d’acceptation</li>
-						<li>Stratégie de traitement</li>
-						<li>Stratégie de transfert</li>
-						<li>Stratégie d’élimination</li>
-					 </ul>
-				 </div>
+						<li>L’option airbag</li>
+						<li>L’option Auto - Bloquant5.2. L’option Auto - Bloquant</li>
+						<li>L’option rétroviseur</li>
+ 					 </ul>
+                 </div>
             </div>
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">   6. Cas pratique : Cartographie des risques financiers</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">    Partie 6 : Synthèse des stratégies</button>                     
             </h2>
-             
+            <div id="collapsesix" class="accordion-collapse collapse">
+                <div class="card-body">
+                </div>
+            </div>
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseseven">    Partie 7 : La comptabilité des options</button>                     
+            </h2>
+            <div id="collapseseven" class="accordion-collapse collapse">
+                <div class="card-body">
+                </div>
+            </div>
         </div>
     </div>
 	
@@ -179,14 +181,12 @@
 						
 <div class="cadreformation">
 								<div>
-								<ul class="step_point">
-                                  
-								 <li>   Évaluer les enjeux de la gestion des risques financiers</li>
-								 <li>	Appréhender la méthodologie du Finance Risk management</li>
-								 <li>	Mettre en place des outils d’auto - évaluation de la maîtrise de ses risques financiers par processus et activités</li>
-								 <li>	Développez votre sécurité financière</li>
-
-								 
+								<ul class="step_point">                                  
+									<li>    S'initier à la pratique des options de change au Maroc</li>
+									<li>	Comprendre les mécanismes des options de change</li>
+									<li>	Maitriser les instruments de couverture de change existants au Maroc</li>
+									<li>	Définir une politique de gestion du risque de change pour son entreprise</li>
+									<li>	Réduire le risque de change et Maitriser son cout d’achat à l’importation / son cout de revient à l’exportation</li>
 								 </ul>  
 
 								</div>
@@ -209,7 +209,7 @@
 			<li>Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
 			<li>Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
 			<li>Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
-
+			
 		 </ul> 
  
 	<h3 class="h3formation">Investissement</h3>

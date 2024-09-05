@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>F.105 _ Cartographie des risques financiers</h1>
+                        <h1>F.104 _ Financier 3.0 : The Best Financial Practices.</h1>
                         
                     </div>
                 </div>              
@@ -91,28 +91,29 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Qu’est-ce que c’est et pourquoi ?</button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Auto - évaluation et évaluation du Finance Team</button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
 					<ul class="step_point">
-						<li>Quelques Définitions utiles</li>
-						<li>Utilité de la cartographie des risques financiers</li>
-						<li>Pré – requis d’une cartographie des risques financiers</li>
-					</ul> 
+						<li>Grille d’évaluation </li>
+						<li>Missions & périmètre du Financier</li>
+						<li>Financier 3.0</li>
+ 					</ul> 
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Evaluation des compétences de l’équipe finance</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Prise de la fonction Finance en main</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-						<li>Fiche de poste _ Risk Manager</li>
-						<li>Grille de compétences de l’équipe finance</li>
+						<li>Diagnostic organisationnel de la fonction Finance</li>
+						<li>Diagnostic Financier de l’entreprise _ Cas : Entreprise industrielle</li>
+						<li>Plans d’actions </li>
 					</ul>
 					</p>
                 </div>
@@ -120,14 +121,16 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. Identification des risques financiers</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. Manager la fonction Finance</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
                     <ul class="step_point">
-						<li>Les sources des risques</li>
-						<li>Tableaux de bord & Reportings</li>
-						<li>Feuille de couverture et FRAP</li>
+						<li>L'éthique financière</li>
+						<li>Communication financière</li>
+						<li>Agenda Financier</li>
+						<li>Benchmarking de la fonction</li>
+						<li>Projet de digitalisation de la fonction Finance</li>
 					</ul>
                 </div>
             </div>
@@ -135,58 +138,51 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4. Evaluation des risques financiers</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">   4. Proposition d’Innovations financières</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
 								<ul class="step_point">
-                                    <li>La Probabilité de survenance du risque</li>
-                                    <li>L’Impact du risque</li>
-                                    <li>Le Niveau de maîtrise du risque</li>
-                                    <li>L’échelle de notation des risques</li>
-                                    <li>La Notation (scoring) du risque</li>
-                                    <li>La cartographie des risques</li>
-                                 </ul>
+                                    <li>Tâches à faible valeur ajoutée</li>
+                                    <li>Dématérialisation du processus de clôture</li>
+                                    <li>L’adaptation du capital humain de la fonction finance</li>
+                                    <li>L’impact sur le BFR et la trésorerie</li>
+                                    <li>Gestion du Cash</li>
+                                    <li>Recensement des capitaux extra – financiers</li>
+                                    <li>Protection des données financières</li>
+								</ul>
                 </div>
             </div>
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">  5. Gestion des risques financiers</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">5. Personal Branding en Finance</button>                     
             </h2>
             <div id="collapsefive" class="accordion-collapse collapse">
                 <div class="card-body">
-					<ul class="step_point">
-						<li>Stratégie d’acceptation</li>
-						<li>Stratégie de traitement</li>
-						<li>Stratégie de transfert</li>
-						<li>Stratégie d’élimination</li>
-					 </ul>
-				 </div>
+				 <ul class="step_point">
+						<li>Finance Trombino</li>
+						<li>Marketing de soi en Finance</li>
+ 					</ul>
+                 </div>
             </div>
         </div>
-		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">   6. Cas pratique : Cartographie des risques financiers</button>                     
-            </h2>
-             
-        </div>
-    </div>
+	</div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
 						
 <div class="cadreformation">
 								<div>
 								<ul class="step_point">
-                                  
-								 <li>   Évaluer les enjeux de la gestion des risques financiers</li>
-								 <li>	Appréhender la méthodologie du Finance Risk management</li>
-								 <li>	Mettre en place des outils d’auto - évaluation de la maîtrise de ses risques financiers par processus et activités</li>
-								 <li>	Développez votre sécurité financière</li>
+                                <li> Acquérir la dernière approche d’évaluation de l’équipe Finance</li>
+								<li> Apprendre à devenir un Financier 3.0</li>
+								<li> Prendre en main de la fonction Finance via les diagnostics</li>
+								<li> Accompagner avec succès la digitalisation de la fonction finance</li>
+								<li> Donner un sens à votre présence au sein de l’entreprise via l’introduction des innovations financières</li>
+								<li> Se vendre au mieux par le Finance Personal Branding</li>
 
-								 
+ 
 								 </ul>  
 
 								</div>
@@ -209,7 +205,7 @@
 			<li>Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
 			<li>Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
 			<li>Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
-
+						
 		 </ul> 
  
 	<h3 class="h3formation">Investissement</h3>

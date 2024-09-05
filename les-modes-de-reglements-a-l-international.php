@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>F.107 _ Hedging & Salle des marchés</h1>
+                        <h1>F.109 _ Les Modes de règlements à l-international</h1>
                         
                     </div>
                 </div>              
@@ -80,7 +80,7 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion et Responsables de trésorerie</p>
+					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables et Contrôleurs de gestion</p>
 
 								</div>
 							</div> 
@@ -91,107 +91,64 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">Partie 1 : La démystification du risque de change</button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">Partie 1 - Le risque de credit</button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
-					 
+				<p>1. Les différentes formes du risque de crédit</p>
+					<ul class="step_point">
+						<li>Le risque de crédit commercial</li>
+						<li>Le risque de crédit pays</li>
+						<li>Le risque bancaire ou financier</li>
+ 					</ul> 
+					
+						<p>2. La gestion du risque de crédit</p>
+					<ul class="step_point">
+						<li>La gestion interne du risque de crédit</li>
+						<li>La gestion externe du risque de crédit</li>
+ 					</ul> 
+					
+					
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Partie 2 : Les instruments internes de couverture (Couverture à 0 DH)</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">Partie 2 - Les Modes de règlements à l&#39;international</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-                                    <li>Le termaillage (leads and lags)</li>
-                                    <li>Le Netting</li>
+						
+						<li>Le paiement par avance</li>
+						<li>Le contre – remboursement</li>
+						<li>Le transfert simple ou virement</li>
+						<li>La remise ou encaissement documentaire</li>
+						<li>Le crédit documentaire : DREDOC</li>
+						<li>Lettre de crédit stand-by</li>
+						<li>Lettre de Change Relevée « L.C.R »</li>
+						<li>La mobilisation de créances nées sur l&#39;étranger (à l&#39;export)</li>
+						<li>Factoring / Affacturage</li>
 					</ul>
 					</p>
                 </div>
             </div>
-        </div>
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Partie 3 : Les instruments externes de couverture</button>                     
-            </h2>
-            <div id="collapseThree" class="accordion-collapse collapse">
-                <div class="card-body">
-                    <ul class="step_point">
-						<li>Le change au comptant</li>
-						<li>Le change à terme</li>
-						<li>L'option de change</li>
- 					</ul>
-                </div>
-            </div>
-        </div>
-		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Partie 4 : Les stratégies optionnelles</button>                     
-            </h2>
-            <div id="collapsefoor" class="accordion-collapse collapse">
-                <div class="card-body">
-					<ul class="step_point">
-						<li>Modalités d’utilisation des options</li>
-						<li>Modalités de participative</li>
-						<li>L’option tunnel</li>
-						<li>L’option spread</li>
-						<li>L’option à moyenne</li>
-					 </ul>
-                </div>
-            </div>
-        </div>
-		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">  Partie 5 : Les options "conditionnelles</button>                     
-            </h2>
-            <div id="collapsefive" class="accordion-collapse collapse">
-                <div class="card-body">
-					<ul class="step_point">
-						<li>L’option airbag</li>
-						<li>L’option Auto - Bloquant5.2. L’option Auto - Bloquant</li>
-						<li>L’option rétroviseur</li>
- 					 </ul>
-                 </div>
-            </div>
-        </div>
-		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">    Partie 6 : Synthèse des stratégies</button>                     
-            </h2>
-            <div id="collapsesix" class="accordion-collapse collapse">
-                <div class="card-body">
-                </div>
-            </div>
-        </div>
-		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseseven">    Partie 7 : La comptabilité des options</button>                     
-            </h2>
-            <div id="collapseseven" class="accordion-collapse collapse">
-                <div class="card-body">
-                </div>
-            </div>
-        </div>
+        </div> 	
+		  
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
 						
 <div class="cadreformation">
 								<div>
-								<ul class="step_point">                                  
-									<li>    S'initier à la pratique des options de change au Maroc</li>
-									<li>	Comprendre les mécanismes des options de change</li>
-									<li>	Maitriser les instruments de couverture de change existants au Maroc</li>
-									<li>	Définir une politique de gestion du risque de change pour son entreprise</li>
-									<li>	Réduire le risque de change et Maitriser son cout d’achat à l’importation / son cout de revient à l’exportation</li>
+								<ul class="step_point">
+                                 
+									<li>Mieux assimiler les différents risques afférents aux exportations</li>
+									<li>Maitriser les différents types de mode de règlements à l’international</li>
+									<li>Être habilité à intégrer les modes de règlement à l’international lors de ses négociations
+									commerciales</li>
+								  
 								 </ul>  
 
 								</div>
@@ -200,20 +157,20 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>     Finance pour Dirigeants non financiers   Mastère en Management financier et techniques de bourse</li>
-			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>	Mastère en Coaching</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale d'énergie</li>
-			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
-			<li>	Consultant – Séminariste depuis l’an 2000</li>
-			<li>	Coach Professionnel Diplômé</li>
-			<li>	Expert – Financier auprès de l’ANPME</li>
-			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
-			<li>	Ex Intervenant en Mastère E-logistique de l’ESITH</li>
-			<li>	Ex Professeur d'Audit et de de Contrôle de gestion approfondi à l’ENCG - Casablanca & Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
+			<li>Mastère en Management financier et techniques de bourse</li>
+			<li>Mastère en Contrôle de gestion, Audit et système d’information</li>
+			<li>Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
+			<li>Ex Directeur Finance et Contrôle de gestion dans une Multinationale</li>
+			<li>Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
+			<li>Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
+			<li>Consultant – Séminariste depuis l’an 2000</li>
+			<li>Coach Professionnel Diplômé</li>
+			<li>Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
+ 			<li>Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
+			<li>Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
+			<li>Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
+			<li>Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
 				
 		 </ul> 
  

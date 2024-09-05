@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>F.108 _ Les Secrets de montage du Business Plan _ Univers incertain</h1>
+                        <h1>F.111 _ Reporting Financier &amp; Data Visualisation</h1>
                         
                     </div>
                 </div>              
@@ -80,7 +80,7 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables et Contrôleurs de gestion</p>
+					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables et Contrôleurs de gestion </p>
 
 								</div>
 							</div> 
@@ -91,48 +91,24 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1.Spécificités de Business Plan</button>									
+                <button type="button" class="accordion-button-no" data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Pourquoi le Reporting financier ?</button>									
             </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show">
-                <div class="card-body">
-					<ul class="step_point">
-						<li>Les raisons d’élaboration d'un Business Plan</li>
-						<li>Les utilisateurs du Business Plan</li>
-						<li>Les réflexes à avoir</li>
-						<li>Entreprise existante ou Start-Up</li>
-					</ul> 
-				</div>
-			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Principales étapes du Montage</button>
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">   2. Psychologie du Dirigeant & structure du Reporting Financier</button>
             </h2>
-            <div id="collapseTwo" class="accordion-collapse collapse ">
-                <div class="card-body">
-                    <p>
-					<ul class="step_point">
-						<li>Remarques préalables</li>
-						<li>De la stratégie au Business Plan</li>
-						<li>L'établissement des prévisions dans l'univers incertain</li>
-						<li>Les points forts et les points faibles</li>						
-					</ul>
-					</p>
-                </div>
-            </div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3.Les éléments prévisionnels</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3.Les instruments du Reporting financier</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
-	                <div class="card-body">
+                <div class="card-body">
                     <ul class="step_point">
-						<li>Généralités</li>
-						<li>L'exploitation prévisionnelle</li>
-						<li>Le Plan de Financement</li>
-						<li>Le Bilan Prévisionnel</li>
-						<li>Les critères de choix d'investissement dans l'Univers incertain</li>
+						<li>Tableaux chiffrés des KPI & KRI</li>
+						<li>Data visualisation & Flashs</li>
+						<li>Zones et méthodologie d’analyse</li>
 					</ul>
                 </div>
             </div>
@@ -140,16 +116,32 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4.Cas pratique sur Template – Entreprise industrielle</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4. Data Visualisation _ Cas pratique sur PC (40% du timing de la formation)</button>                     
             </h2>
-            <div id="collapsefoor" class="accordion-collapse collapse">
+         </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive"> 5. Les indicateurs financiers – Cas pratique</button>                     
+            </h2>
+            <div id="collapsefive" class="accordion-collapse collapse">
                 <div class="card-body">
-							 
-                </div>
+				
+					<ul class="step_point">
+						<li>Cartes stratégiques actuelle et future</li>
+						<li>Conversion des données comptables en données financières</li>
+						<li>KPI Financement, Cout des capitaux & Investissements</li>
+						<li>KPI Working Capital (BFR : DIO, DSO & DPO)</li>
+						<li>KPI Trésorerie : le Range, les structures d’encaissement actuelle et cible, les décisions de financements et de placements, l’analyse des agios, devises & Salle des marchés</li>
+						<li>Analyse économique : 5 Top, Gross Margin, Added Value, Ebitda, EBIT & Structure des résultats</li>
+						<li>KPI rentabilités commerciale, économique, EVA et financière</li>
+					</ul>
+					
+			 </div>
             </div>
         </div>
 		
-		  
+	 
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
@@ -158,11 +150,12 @@
 								<div>
 								<ul class="step_point">
                                   
-									<li> Appréhender la démarche pratique du Business Plan</li>
-									<li> Apprendre à développer des business plans pertinents pour les projets à son entreprise</li>
-									<li> Réussir l’argumentaire de son projet devant le top Management et les bailleurs de fonds</li>
-									<li> Maîtriser l'art de convaincre et la gestion de l'argumentaire</li>
-									<li> Présenter le projet de façon convaincante</li>
+									<li> Prendre conscience de l’importance du pilotage de la performance financière et économique pour l’entreprise   </li>
+									<li> Maitriser l’approche du passage du bilan comptable aux bilans financier et fonctionnel   </li>
+									<li> Identifier les éléments nécessaires à la réalisation d'un reporting financier efficace   </li>
+									<li>  Découvrir la démarche de conception et de sélection des indicateurs financiers  </li>
+									<li>  Identifier ou concevoir les indicateurs pertinents pour le reporting  </li>
+									<li>   Mettre en œuvre une démarche structurée de reporting </li>
 
 								 </ul>  
 
@@ -172,21 +165,20 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>     Finance pour Dirigeants non financiers   Mastère en Management financier et techniques de bourse</li>
-			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>	Mastère en Coaching</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale d'énergie</li>
-			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
-			<li>	Consultant – Séminariste depuis l’an 2000</li>
-			<li>	Coach Professionnel Diplômé</li>
-			<li>	Expert – Financier auprès de l’ANPME</li>
-			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
-			<li>	Ex Intervenant en Mastère E-logistique de l’ESITH</li>
-			<li>	Ex Professeur d'Audit et de de Contrôle de gestion approfondi à l’ENCG - Casablanca & Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
-				
+			<li>Mastère en Management financier et techniques de bourse</li>
+			<li>Mastère en Contrôle de gestion, Audit et système d’information</li>
+			<li>Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
+			<li>Ex Directeur Finance et Contrôle de gestion dans une Multinationale</li>
+			<li>Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
+			<li>Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
+			<li>Consultant – Séminariste depuis l’an 2000</li>
+			<li>Coach Professionnel Diplômé</li>
+			<li>Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
+ 			<li>Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
+			<li>Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
+			<li>Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
+			<li>Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
 		 </ul> 
  
 	<h3 class="h3formation">Investissement</h3>

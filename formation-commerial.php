@@ -229,7 +229,9 @@
            
 		   </div>
 		   
-		     <div class="col-12 col-sm-6 col-md-6 col-lg-4">
+		     
+			 
+			  <div class="col-12 col-sm-6 col-md-6 col-lg-4">
                 <div class="single-courses">
                      <div class="courses_info_wrapper">
                         <div class="courses_title">
@@ -254,6 +256,37 @@
 
                              </ul>
 						 <a href="techniques-de-prospection-et-de-vente-international.php" class="cart_btn">Voir la formation</a>
+                         </div>
+                    </div>
+                </div> 
+           
+		   </div>
+		   
+		   <div class="col-12 col-sm-6 col-md-6 col-lg-4">
+                <div class="single-courses">
+                     <div class="courses_info_wrapper">
+                        <div class="courses_title">
+                            <h3><a href="comment-developper-son-networking-commercial.php">Comment développer son Networking commercial</a></h3>
+                          <!--  <div class="teachers_name">Formateur - <a href="#" title="">Nacir Mohammed</a></div> -->
+                        </div>
+                        
+                    </div>
+					<div class="courses_banner_wrapper">
+                        <div class="courses_banner"><a href="comment-developper-son-networking-commercial.php"><img src="images/comment-developper-son-networking-commercial.avif" alt="" class="img-fluid"></a></div>
+                        <div class="purchase_price">
+                              <a href="#" class="read_more-btn">F.808</a> 
+                        </div>
+                    </div>
+                    <div class="courses_info_wrapper">
+                        <div class="courses_title">
+ 							<div class="teachers_name">Animateur - <a href="#" title="">M. Mohammed NACIR</a></div>
+                         </div>
+                        <div class="courses_info">
+                            <ul class="list-unstyled">
+                                <li><i class="fas fa-calendar-alt"></i>2 Jours</li>
+
+                             </ul>
+						 <a href="comment-developper-son-networking-commercial.php" class="cart_btn">Voir la formation</a>
                          </div>
                     </div>
                 </div> 

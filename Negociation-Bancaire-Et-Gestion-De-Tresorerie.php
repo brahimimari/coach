@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.102 - Négociation bancaire et gestion de trésorerie</h1>
+                        <h1>F.102 - Cash Management &amp; Négociation bancaire</h1>
                         
                     </div>
                 </div>              
@@ -92,7 +92,7 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Les enjeux du trésorerie </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Les enjeux du Cash Management </button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
@@ -100,22 +100,24 @@
 						<li>Rôle du trésorier</li>
 						<li>Qualités du trésorier</li>
 						<li>Missions du trésorier</li>
-						<li>Origines des problèmes de la trésorerie</li>
+						<li>Problèmes structurels et conjoncturels de la trésorerie (FDR, BFR, et TN)</li>
 					</ul> 
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. L’environnement de la trésorerie</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. L’environnement du Cash Management</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-                                    <li>Marché monétaire</li>
+                                    <li>Marché monétaire (SICAV, FCP et choix des placements)</li>
                                     <li>Marché boursier</li>
-                                    <li>La banque & l’entreprise</li>
+                                    <li>La banque &amp; l’entreprise : Arborescence des produits bancaires : (Découvert, escompte
+commercial, Spot, Refinancement à l’import, Préfinancement à l’export (LIBOR / SONIA / SOFR /
+ESTR, …), ASM, Cash pooling, Fusion des comptes, Factoring, Lease – back, …)</li>
 					</ul>
 					</p>
                 </div>
@@ -123,13 +125,14 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. Négociations bancaires - Cas pratique</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. Négociations bancaires (Lignes de financement et d’exploitation) – Cas pratique</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
                     <ul class="step_point">
 						<li>Montage du dossier et préparation du protocole de négociation</li>
-						<li>Contrôle des conditions bancaires (Application développé sur Excel)</li>
+						<li>Contrôle des conditions bancaires : Echelle d’intérêt (Application développée sur Excel)</li>
+						<li>Mise en place du système de gestion de trésorerie en Date de valeur à très court terme (Modèle développée sur Excel)</li>
 					</ul>
                 </div>
             </div>
@@ -137,42 +140,27 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4. L’arbitrage financier - Cas pratique</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4. Analyse détaillée de l&#39;échelle d&#39;intérêt - Cas pratique sur PC</button>                     
             </h2>
-            <div id="collapsefoor" class="accordion-collapse collapse">
+          
+        </div>
+		
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">  5. L’arbitrage financier - Cas pratique</button>                     
+            </h2>
+            <div id="collapsefive" class="accordion-collapse collapse">
                 <div class="card-body">
 								<ul class="step_point">
                                     <li>Les erreurs à éviter (Erreur d’équilibrage, de sur mobilisation et de sous mobilisation)</li>
                                     <li>L’arbitrage des supports financiers</li>
                                     <li>La gestion des placements</li>
                                  </ul>
-                </div>
-            </div>
-        </div>
-		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">  5. Identification des risques financiers</button>                     
-            </h2>
-            <div id="collapsefive" class="accordion-collapse collapse">
-                <div class="card-body">
                  </div>
             </div>
         </div>
 		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">6. Introduction à la gestion du risque de change</button>                     
-            </h2>
-            <div id="collapsesix" class="accordion-collapse collapse">
-                <div class="card-body">
-					<ul class="step_point">
-						<li>Identification du risque</li>
-						<li>Stratégies de couvertures</li>
-					  </ul>
-                </div>
-            </div>
-        </div>
+		 
     </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
@@ -181,11 +169,12 @@
 								<div>
 								<ul class="step_point">
                                   
-									<li>    Acquérir le vocabulaire financier, lire et comprendre les informations comptables et financières</li>
-									<li>	Communiquer avec la direction comptable & financière</li>
-									<li>	Comprendre et analyser un bilan et un compte de produits & charges</li>
-									<li>	Comprendre l’univers Banque – Entreprise</li>
-									<li>	Comprendre le monde de la bourse </li>
+									<li>Évaluer les enjeux de la négociation bancaire</li>
+									<li>Comprendre les différentes approches du calcul de la trésorerie</li>
+									<li>Prendre des décisions de financement/placement</li>
+									<li>Apprendre à négocier et à contrôler les conditions bancaires</li>
+									<li>Gérer la trésorerie au jour le jour</li>
+									<li>Optimiser les prévisions, financements et placements, la gestion quotidienne de la trésorerie</li>
 
 								 </ul>  
 
@@ -195,21 +184,21 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>     Finance pour Dirigeants non financiers   Mastère en Management financier et techniques de bourse</li>
-			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>	Mastère en Coaching</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale d'énergie</li>
-			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
-			<li>	Consultant – Séminariste depuis l’an 2000</li>
-			<li>	Coach Professionnel Diplômé</li>
-			<li>	Expert – Financier auprès de l’ANPME</li>
-			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
-			<li>	Ex Intervenant en Mastère E-logistique de l’ESITH</li>
-			<li>	Ex Professeur d'Audit et de de Contrôle de gestion approfondi à l’ENCG - Casablanca & Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
-				
+			<li>Mastère en Management financier et techniques de bourse</li>
+			<li>Mastère en Contrôle de gestion, Audit et système d’information</li>
+			<li>Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
+			<li>Ex Directeur Finance et Contrôle de gestion dans une Multinationale</li>
+			<li>Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
+			<li>Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
+			<li>Consultant – Séminariste depuis l’an 2000</li>
+			<li>Coach Professionnel Diplômé</li>
+			<li>Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
+ 			<li>Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
+			<li>Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
+			<li>Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
+			<li>Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
+					
 		 </ul> 
  
 	<h3 class="h3formation">Investissement</h3>

@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>F.105 _ Cartographie des risques financiers</h1>
+                        <h1>F.808 _ Comment développer son Networking commercial</h1>
                         
                     </div>
                 </div>              
@@ -80,39 +80,44 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables et Contrôleurs de gestion</p>
-
+										 <p class="textecadre">Cette formation s'adresse à tous les cadres et dirigeants , tels que les Directeurs généraux, Directeurs commerciaux et Responsables commerciaux.</p>
 								</div>
 							</div> 
 							
 					<h3 class="h3formation">Le programme de la formation </h3>
- 
 
+ 
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Qu’est-ce que c’est et pourquoi ?</button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 1. Capitaliser sur son réseau actuel pour le développer </button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
 					<ul class="step_point">
-						<li>Quelques Définitions utiles</li>
-						<li>Utilité de la cartographie des risques financiers</li>
-						<li>Pré – requis d’une cartographie des risques financiers</li>
-					</ul> 
+						<li>Les réseaux au service des affaires</li>
+						<li>Évaluer son capital relationnel </li>
+						<li>Identifier le potentiel de développement de son réseau </li>
+						<li>Le plan d&#39;action réseau </li>
+						<li>Cas pratique N°1 : Capitaliser sur son réseau actuel </li>
+						<li>Test Psychologique : Évaluation de l&#39;Audace Commerciale </li>
+ 					</ul> 
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Evaluation des compétences de l’équipe finance</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Organiser sa stratégie d&#39;influence au sein d&#39;un compte</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-						<li>Fiche de poste _ Risk Manager</li>
-						<li>Grille de compétences de l’équipe finance</li>
+						<li>Identifier les acteurs de la décision</li>
+						<li>Cerner le pouvoir d&#39;influence dans l&#39;organisation</li>
+						<li>Gagner en influence et en proximité sur ses cibles</li>
+						<li>Développer des messages ciblés pour gagner en impact</li>
+						<li>Cas pratique N°2 : Stratégie d’influence</li>
 					</ul>
 					</p>
                 </div>
@@ -120,32 +125,16 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. Identification des risques financiers</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. Optimiser son identité numérique </button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
                     <ul class="step_point">
-						<li>Les sources des risques</li>
-						<li>Tableaux de bord & Reportings</li>
-						<li>Feuille de couverture et FRAP</li>
-					</ul>
-                </div>
-            </div>
-        </div>
-		
-		<div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4. Evaluation des risques financiers</button>                     
-            </h2>
-            <div id="collapsefoor" class="accordion-collapse collapse">
-                <div class="card-body">
-								<ul class="step_point">
-                                    <li>La Probabilité de survenance du risque</li>
-                                    <li>L’Impact du risque</li>
-                                    <li>Le Niveau de maîtrise du risque</li>
-                                    <li>L’échelle de notation des risques</li>
-                                    <li>La Notation (scoring) du risque</li>
-                                    <li>La cartographie des risques</li>
+                                    <li>Guide de diagnostic de votre Profil Linkdin</li>
+                                    <li>Quels réseaux sociaux privilégier ?</li>
+                                    <li>Rendre son profil attractif et visible sur le Web</li>
+                                    <li>Exploiter les recommandations</li>
+                                    <li>Cas pratique N°3 : Développer son profil Linkdin</li>
                                  </ul>
                 </div>
             </div>
@@ -153,25 +142,34 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">  5. Gestion des risques financiers</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4. Pratiquer le networking commercial au quotidien</button>                     
             </h2>
-            <div id="collapsefive" class="accordion-collapse collapse">
+            <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
-					<ul class="step_point">
-						<li>Stratégie d’acceptation</li>
-						<li>Stratégie de traitement</li>
-						<li>Stratégie de transfert</li>
-						<li>Stratégie d’élimination</li>
-					 </ul>
-				 </div>
+								<ul class="step_point">
+                                    <li>Devenir un adepte du pitch pour faire connaître sa différence</li>
+                                    <li>Réussir l’entretien de son networking</li>
+                                    <li>Cas pratique N°4 : Networking commercial</li>
+                                 </ul>
+                </div>
             </div>
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">   6. Cas pratique : Cartographie des risques financiers</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">5.Techniques de Challenge pour commerciaux</button>                     
             </h2>
-             
+            <div id="collapsefive" class="accordion-collapse collapse">
+                <div class="card-body">
+								<ul class="step_point">
+                                    <li>Objectifs du challenge</li>
+                                    <li>Kick off meeting - Challenge</li>
+                                    <li>Durée du challenge</li>
+                                    <li>Univers du Challenge</li>
+                                    <li>Prix du challenge</li>
+                                 </ul>
+                </div>
+            </div>
         </div>
     </div>
 	
@@ -179,15 +177,12 @@
 						
 <div class="cadreformation">
 								<div>
-								<ul class="step_point">
-                                  
-								 <li>   Évaluer les enjeux de la gestion des risques financiers</li>
-								 <li>	Appréhender la méthodologie du Finance Risk management</li>
-								 <li>	Mettre en place des outils d’auto - évaluation de la maîtrise de ses risques financiers par processus et activités</li>
-								 <li>	Développez votre sécurité financière</li>
-
-								 
-								 </ul>  
+								<ul class="step_point">                               
+									<li>Faire de son capital relationnel un levier business</li>
+									<li>Définir son degré d’audace commerciale</li>
+									<li>Gagner en influence et en visibilité au sein des comptes</li>
+									<li>Organiser et développer son networking commerciale</li>
+								</ul>  
 
 								</div>
 							</div> 	
@@ -195,21 +190,19 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>Mastère en Management financier et techniques de bourse</li>
-			<li>Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
-			<li>Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
-			<li>Ex Directeur Finance et Contrôle de gestion dans une Multinationale</li>
-			<li>Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
-			<li>Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
-			<li>Consultant – Séminariste depuis l’an 2000</li>
-			<li>Coach Professionnel Diplômé</li>
-			<li>Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
- 			<li>Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
-			<li>Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
-			<li>Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
-			<li>Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
-
+			<li>     Mastère en Coaching de L’EHTP</li>
+			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
+			<li>	Mastère en Management financier et techniques de bourse</li>
+			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale</li>
+			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
+			<li>	Consultant – Séminariste depuis l’an 2000</li>
+			<li>	Coach Professionnel diplômé de l’EHTP</li>
+			<li>	Professeur de Finance et Contrôle de gestion aux Mastères &amp; MBA de l’Université Internationale de Casablanca</li>
+			<li>	Ex Professeur de Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
+			<li>	Ex Professeur d&#39;Audit et de Contrôle de gestion à l’ENCG - Casablanca &amp; Settat</li>
+			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l&#39;Ecole Française des Affaires</li>
+				
 		 </ul> 
  
 	<h3 class="h3formation">Investissement</h3>

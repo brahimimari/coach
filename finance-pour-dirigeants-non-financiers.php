@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.101 - Finance pour Dirigeants non financiers</h1>
+                        <h1>F.101 - Finance pour Dirigeants non financiers</h1>
                         
                     </div>
                 </div>              
@@ -80,48 +80,40 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre"> Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion
- et Responsables de trésorerie</p>
+					 <p class="textecadre"> Cette formation sera profitable aux managers non financiers ainsi qu&#39;à toute personne souhaitant
+acquérir des connaissances en techniques financières afin d&#39;améliorer ses compétences
+managériales.</p>
 
 								</div>
 							</div> 
 							
 					<h3 class="h3formation">Le programme de la formation </h3>
 
-<p>Première partie : L’essentiel de la comptabilité générale et de l’analyse financière pour non Financiers
-</p>
 
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> 1. Comprendre l’information comptable </button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne"> Première partie : L’essentiel de la comptabilité générale et de l’analyse financière pour non Financiers
+				</button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
+				<p>1. Comprendre l’information comptable </p>
 					<ul class="step_point">
 						<li>Finalité de la comptabilité</li>
 						<li>Apprendre à lire les documents financiers</li>
 						<li>Interpréter le bilan et le compte de produits et charges.</li>
 					</ul> 
-				</div>
-			</div>
-        </div>
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Techniques de l’analyse financière</button>
-            </h2>
-            <div id="collapseTwo" class="accordion-collapse collapse ">
-                <div class="card-body">
-                    <p>
+					<p>2. Techniques de l’analyse financière</p>
 					<ul class="step_point">
                                     <li>Analyse financière fondée sur le bilan (FDR, BFR, Trésorerie)</li>
                                     <li>Analyse par les ratios</li>
                                     <li>Analyse du Compte Poduits & Charge</li>
 					</ul>
-					</p>
-                </div>
-            </div>
+				</div>
+			</div>
         </div>
+      
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
                 <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">Deuxième partie : La banque et l’entreprise </button>                     
@@ -129,8 +121,9 @@
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
                     <ul class="step_point">
-                                    <li>Les différentes formules de financements</li>
-                                    <li>Les supports de placemets</li>
+                                    <li>Les différentes formules de financements (Découvert, Escompte, Crédit Spot, Warrant, Cash
+Pooling, factoring, …)</li>
+                                    <li>Les supports de placements (Bourse, OPCVM, bons de caisse, DAT, placement classique)</li>
                                  </ul>
                 </div>
             </div>
@@ -138,13 +131,12 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Troisième partie : Bourse & Business English</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">Troisième partie : Business English</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
 								<ul class="step_point">
-                                    <li>Aperçu sur la bourse</li>
-                                    <li>Business English</li>
+                                     <li>Business English</li>
                                  </ul>
                 </div>
             </div>
@@ -169,20 +161,20 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>     Finance pour Dirigeants non financiers   Mastère en Management financier et techniques de bourse</li>
+			<li>    Mastère en Management financier et techniques de bourse</li>
 			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>	Mastère en Coaching</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale d'énergie</li>
-			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
+			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>	Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
+			<li>	Ex Directeur Finance et Contrôle de gestion dans une Multinationale</li>
+			<li>	Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
+			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
 			<li>	Consultant – Séminariste depuis l’an 2000</li>
 			<li>	Coach Professionnel Diplômé</li>
-			<li>	Expert – Financier auprès de l’ANPME</li>
-			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
-			<li>	Ex Intervenant en Mastère E-logistique de l’ESITH</li>
-			<li>	Ex Professeur d'Audit et de de Contrôle de gestion approfondi à l’ENCG - Casablanca & Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
+			<li>	Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
+ 			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
+			<li>	Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
+			<li>	Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
+			<li>	Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
 				
 		 </ul> 
  

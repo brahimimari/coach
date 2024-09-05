@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>S.103 _ Approche pratique du Diagnostic financier</h1>
+                        <h1>F.103 _ Approche pratique du Diagnostic financier</h1>
                         
                     </div>
                 </div>              
@@ -153,7 +153,7 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">  5.Formulation du jugement et des recommandations (Techniques de rédaction du rapport financier)</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive">  5.Formulation du jugement et des recommandations (Techniques de rédaction du rapport financier)</button>                     
             </h2>
             <div id="collapsefive" class="accordion-collapse collapse">
                 <div class="card-body">
@@ -163,7 +163,7 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">    6.Cas pratique – Entreprise industrielle</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix">    6.Cas pratique – Entreprise industrielle</button>                     
             </h2>
             <div id="collapsesix" class="accordion-collapse collapse">
                 <div class="card-body">
@@ -178,11 +178,13 @@
 								<div>
 								<ul class="step_point">
                                   
-									<li>    Acquérir le vocabulaire financier, lire et comprendre les informations comptables et financières</li>
-									<li>	Communiquer avec la direction comptable & financière</li>
-									<li>	Comprendre et analyser un bilan et un compte de produits & charges</li>
-									<li>	Comprendre l’univers Banque – Entreprise</li>
-									<li>	Comprendre le monde de la bourse </li>
+								 <li> Appréhender la démarche pratique du diagnostic financier dans ses différentes étapes </li>
+								 <li> Evaluer l&#39;impact de chaque étape et son impact sur la qualité du diagnostic financier </li>
+								 <li> Détecter les opportunités et vulnérabilités de système financier de son entreprise </li>
+								 <li> Elaborer des plans d&#39;actions de renforcement et de secours </li>
+								 <li> Rédiger un rapport financier professionnel </li>
+
+									
 
 								 </ul>  
 
@@ -192,21 +194,21 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>     Finance pour Dirigeants non financiers   Mastère en Management financier et techniques de bourse</li>
-			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>	Mastère en Coaching</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale d'énergie</li>
-			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
-			<li>	Consultant – Séminariste depuis l’an 2000</li>
-			<li>	Coach Professionnel Diplômé</li>
-			<li>	Expert – Financier auprès de l’ANPME</li>
-			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
-			<li>	Ex Intervenant en Mastère E-logistique de l’ESITH</li>
-			<li>	Ex Professeur d'Audit et de de Contrôle de gestion approfondi à l’ENCG - Casablanca & Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
-				
+			<li>Mastère en Management financier et techniques de bourse</li>
+			<li>Mastère en Contrôle de gestion, Audit et système d’information</li>
+			<li>Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
+			<li>Ex Directeur Finance et Contrôle de gestion dans une Multinationale</li>
+			<li>Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
+			<li>Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
+			<li>Consultant – Séminariste depuis l’an 2000</li>
+			<li>Coach Professionnel Diplômé</li>
+			<li>Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
+ 			<li>Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
+			<li>Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
+			<li>Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
+			<li>Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
+					
 		 </ul> 
  
 	<h3 class="h3formation">Investissement</h3>

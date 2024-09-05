@@ -56,7 +56,7 @@
             <div class="row">        
                  <div class="col-sm-12 col-md-8 col-lg-8">
                     <div class="intro_text">
-                        <h1>F.104 _ Financier 3.0 : Améliorez la performance de votre B.U.</h1>
+                        <h1>F.107 _ Hedging & Salle des marchés</h1>
                         
                     </div>
                 </div>              
@@ -80,7 +80,7 @@
 						 <div style="" class="cadreformation">
 								<div>
 									<h3 class="h3cadre">Pour qui</h3>
-					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables et Contrôleurs de gestion</p>
+					 <p class="textecadre">Tout cadre et dirigeant sans formation financière approfondie, comme les directeurs généraux, Directeurs financiers, Responsables financiers, Comptables, Contrôleurs de gestion et Responsables de trésorerie</p>
 
 								</div>
 							</div> 
@@ -91,29 +91,28 @@
      <div class="accordion" id="myAccordion">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
-                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Auto - évaluation et évaluation du Finance Team</button>									
+                <button type="button" class="accordion-button " data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Introduction</button>									
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show">
                 <div class="card-body">
-					<ul class="step_point">
-						<li>Grille d’évaluation </li>
-						<li>Missions & périmètre du Financier</li>
-						<li>Financier 3.0</li>
- 					</ul> 
+					 <ul class="step_point">
+                                    <li>Créances interentreprises et ses conséquences</li>
+                                    <li>Qu’est ce que la vente ?</li>
+                                    <li>Qualités du nouveau commercial</li>
+					</ul>
 				</div>
 			</div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2.Prise de la fonction Finance en main</button>
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Les Risques – Clients</button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse ">
                 <div class="card-body">
                     <p>
 					<ul class="step_point">
-						<li>Diagnostic organisationnel de la fonction Finance</li>
-						<li>Diagnostic Financier de l’entreprise _ Cas : Entreprise industrielle</li>
-						<li>Plans d’actions </li>
+                                    <li>Identification des risques – clients</li>
+                                    <li>Comment gérer les Risques - Clients ?</li>
 					</ul>
 					</p>
                 </div>
@@ -121,16 +120,15 @@
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. Prise de la fonction Finance en main</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. Les modes de paiement / Avantages et Inconvénients</button>                     
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse">
                 <div class="card-body">
-                    <ul class="step_point">
-						<li>L'éthique financière</li>
-						<li>Communication financière</li>
-						<li>Agenda Financier</li>
-						<li>Benchmarking de la fonction</li>
-						<li>Projet de digitalisation de la fonction Finance</li>
+                    <ul class="step_point">					
+						<li>Espèces / Chèque</li>
+						<li>Lettre de change normalisée - LCN</li>
+						<li>Virement</li>
+						<li>Stratégie des modes de paiement</li>
 					</ul>
                 </div>
             </div>
@@ -138,51 +136,47 @@
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">   4. Proposition d’Innovations financières</button>                     
+                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefoor">4. Impact de la créance – Client sur la rentabilité – SIX ETUDES DE CAS</button>                     
             </h2>
             <div id="collapsefoor" class="accordion-collapse collapse">
                 <div class="card-body">
-								<ul class="step_point">
-                                    <li>Tâches à faible valeur ajoutée</li>
-                                    <li>Dématérialisation du processus de clôture</li>
-                                    <li>L’adaptation du capital humain de la fonction finance</li>
-                                    <li>L’impact sur le BFR et la trésorerie</li>
-                                    <li>Gestion du Cash</li>
-                                    <li>Recensement des capitaux extra – financiers</li>
-                                    <li>Protection des données financières</li>
-								</ul>
+					<ul class="step_point">
+						<li>Cas 1 : Calcul du salaire du commercial à partir de la marge</li>
+						<li>Cas 2 : Impact du crédit sur la marge</li>
+						<li>Cas 3 : Impact du crédit composé sur la marge</li>
+						<li>Cas 4 : Impact de la perte de la créance sur la rentabilité de l’entreprise</li>
+						<li>Cas 5 : Balance âgée &amp; Cout d’opportunité</li>
+						<li>Cas 6 : Coût Global de la Gestion de la fonction commerciale</li>
+  					 </ul>
                 </div>
             </div>
+        </div>
+		 
+		<div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapsesix"> 5. Informations commerciales &amp; Sécurité de créances</button>                     
+            </h2>
+           
         </div>
 		
 		<div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
-                <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapsefive"> Personal Branding en Finance</button>                     
+                <button type="button" class="accordion-button-no collapsed" data-bs-toggle="collapse" data-bs-target="#collapseseven"> 6. Mesure des performances – Tableau de bord commercial</button>                     
             </h2>
-            <div id="collapsefive" class="accordion-collapse collapse">
-                <div class="card-body">
-				 <ul class="step_point">
-						<li>Finance Trombino</li>
-						<li>Marketing de soi en Finance</li>
- 					</ul>
-                 </div>
-            </div>
+           
         </div>
-	</div>
+    </div>
 	
 	<h3 class="h3formation">Les objectifs de la formation</h3>
 						
 <div class="cadreformation">
 								<div>
-								<ul class="step_point">
-                                <li>   Acquérir la dernière approche d’évaluation de l’équipe Finance</li>
-								<li> Apprendre à devenir un Financier 3.0</li>
-								<li> Prendre en main de la fonction Finance via les diagnostics</li>
-								<li> Accompagner avec succès la digitalisation de la fonction finance</li>
-								<li> Donner un sens à votre présence au sein de l’entreprise via l’introduction des innovations financières
-								 Se vendre au mieux par le Finance Personal Branding</li>
+								<ul class="step_point">     
 
- 
+							<li>	Sensibiliser les commerciaux aux risques – clients et à l’effritement de la marge par le crédit – clients </li>
+							<li>	Donner aux commerciaux des outils pratiques et des arguments valables pour améliorer leurs marges grâce à la négociation des conditions de paiement </li>
+							<li>	Apporter une nouvelle dimension du métier commercial pour augmenter la crédibilité de la négociation en face à face </li>
+							<li>	Mesurer et suivre les performances d’e l’équipe commerciale par le tableau de bord</li>
 								 </ul>  
 
 								</div>
@@ -191,21 +185,21 @@
 	<h3 class="h3formation"> ﻿ Animateur </h3>
 	<h3> ﻿ M. Mohammed NACIR<span></span></h3>
 		 <ul class="step_point">
-			<li>     Finance pour Dirigeants non financiers   Mastère en Management financier et techniques de bourse</li>
-			<li>	Mastère en Contrôle de gestion, Audit et système d’information</li>
-			<li>	Mastère en Coaching</li>
-			<li>	Certificat en Management par la valeur - Association Française de l’analyse de la valeur A. F. A. V.</li>
-			<li>	Ex Directeur Finance et Controle de gestion dans une Multinationale d'énergie</li>
-			<li>	Ex Contrôleur de gestion dans une multinationale de Pétrole & Gaz</li>
-			<li>	Consultant – Séminariste depuis l’an 2000</li>
-			<li>	Coach Professionnel Diplômé</li>
-			<li>	Expert – Financier auprès de l’ANPME</li>
-			<li>	Intervenant en Contrôle de gestion et Finance à l’Université Internationale de Casablanca</li>
-			<li>	Ex Intervenant en Diagnostic et Economie de la P.M.E. en MBA de l’E.S.I.G.</li>
-			<li>	Ex Intervenant en Mastère E-logistique de l’ESITH</li>
-			<li>	Ex Professeur d'Audit et de de Contrôle de gestion approfondi à l’ENCG - Casablanca & Settat</li>
-			<li>	Ex Professeur de Finance et Contrôle de gestion à Toulouse Business School et à l'Ecole Française des Affaires</li>
-				
+		<li>Mastère en Management financier et techniques de bourse</li>
+			<li>Mastère en Contrôle de gestion, Audit et système d’information</li>
+			<li>Certificat en Management par la valeur - Association Française de l’analyse de la valeur</li>
+			<li>Mastère Expert – Coach de l’Ecole Hassania des Travaux Publics</li>
+			<li>Ex Directeur Finance et Contrôle de gestion dans une Multinationale</li>
+			<li>Ex Directeur d’organisation &amp; Contrôle de gestion dans un groupe de distribution</li>
+			<li>Ex Contrôleur de gestion dans une multinationale de Pétrole &amp; Gaz</li>
+			<li>Consultant – Séminariste depuis l’an 2000</li>
+			<li>Coach Professionnel Diplômé</li>
+			<li>Professeur de finance &amp; Contrôle de gestion - Mastères &amp; MBA à l’Université Internationale de Casablanca</li>
+ 			<li>Ex Intervenant en Diagnostic et Economie de la P.M.E. _ MBA à l’E.S.I.G.</li>
+			<li>Ex Professeur de finance &amp; RH - Mastères à l’ESITH</li>
+			<li>Ex Professeur d&#39;Audit et de Contrôle de gestion – Mastères à l’ENCG Casablanca &amp; Settat</li>
+			<li>Ex Professeur de Finance et Contrôle de gestion - Toulouse Business School et l&#39;Ecole Française des Affaires</li>
+						
 		 </ul> 
  
 	<h3 class="h3formation">Investissement</h3>
