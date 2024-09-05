@@ -374,7 +374,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="reporting-financier-data-visualisation.php"><img src="images/reporting-financier.webp" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.111</a> 
+                              <a href="#" class="read_more-btn">F.111</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
