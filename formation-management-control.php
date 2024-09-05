@@ -151,7 +151,7 @@
 					<div class="courses_banner_wrapper">
                         <div class="courses_banner"><a href="Cession-interne-et-Creation-de-valeur.php"><img src="images/creation-de-la-valeur.jpg" alt="" class="img-fluid"></a></div>
                         <div class="purchase_price">
-                              <a href="#" class="read_more-btn">S.205</a> 
+                              <a href="#" class="read_more-btn">F.205</a> 
                         </div>
                     </div>
                     <div class="courses_info_wrapper">
